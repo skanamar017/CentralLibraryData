@@ -1,6 +1,8 @@
 import pandas as pd
 import re
 import requests
+import time
+
 
 
 df = pd.read_csv('pg_catalog.csv')
@@ -60,15 +62,44 @@ print("Genres done!")
 
 new_df= df[['Text#', 'Title', 'Authors', 'Genres']].copy()
 
-#get ISBN and page count from Open Library based on title and author
 
-# add ISBN and page count to the dataframe
 
 print(df.head())
 
 print(new_df.head())
 
 
-#df.to_csv('new_pg_catalog.csv', index=False)
+# Add ISBN and Pages columns
+df['ISBN'] = ''
+df['Pages'] = ''
 
-new_df.to_csv('new_pg_catalog.csv', index=False)
+new_df100 = new_df.head(100) # Limit to first 100 rows
+
+#get ISBN and page count from Open Library based on title and author
+def lookup_openlibrary(title, author):
+    url = f"https://openlibrary.org/search.json?title={title}&author={author}"
+    print(url)
+    response = requests.get(url)
+    if response.status_code == 200:
+        data = response.json()
+        if data['numFound'] > 0:
+            doc = data['docs'][0]
+            isbn = doc['isbn'][0] if 'isbn' in doc else None
+            pages = doc.get('number_of_pages_median')
+            return isbn, pages
+    return None, None
+
+# Add empty columns
+df['ISBN'] = ''
+df['Pages'] = ''
+
+for idx, row in df.iterrows():
+    title = row['Title']
+    author = row['Authors']
+    isbn, pages = lookup_openlibrary(title, author)
+    new_df100.at[idx, 'ISBN'] = isbn if isbn else ''
+    new_df100.at[idx, 'Pages'] = pages if pages else ''
+    time.sleep(0.100)
+
+# Save to JSON
+new_df100.to_json('book_json.json', orient='records', force_ascii=False, indent=4)
