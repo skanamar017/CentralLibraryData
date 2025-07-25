@@ -16,7 +16,9 @@
             "United States Law",
             "History - American",
             "History - Warfare"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":2,
@@ -35,7 +37,9 @@
             "History - American",
             "Law & Criminology",
             "Politics"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":3,
@@ -52,7 +56,9 @@
             "Inaugural addresses",
             "History - American",
             "Politics"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":4,
@@ -69,7 +75,9 @@
             "US Civil War",
             "History - American",
             "Politics"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":5,
@@ -88,7 +96,9 @@
             "American Revolutionary War",
             "United States Law",
             "History - American"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":6,
@@ -107,7 +117,9 @@
             "1775-1783",
             "Sources",
             "American Revolutionary War"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":7,
@@ -123,7 +135,9 @@
             "Pilgrims (New Plymouth Colony)",
             "Mayflower Compact (1620)",
             "History - American"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":8,
@@ -141,7 +155,9 @@
             "US Civil War",
             "History - American",
             "Politics"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":9,
@@ -159,7 +175,9 @@
             "US Civil War",
             "History - American",
             "Politics"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":10,
@@ -172,7 +190,9 @@
             "Banned Books List from the American Library Association",
             "History - Religious",
             "Religion\/Spirituality\/Paranormal"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":11,
@@ -190,7 +210,9 @@
             "Children's Literature",
             "Children & Young Adult Reading",
             "Fiction"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":12,
@@ -209,7 +231,9 @@
             "Best Books Ever Listings",
             "Children & Young Adult Reading",
             "Literature"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":13,
@@ -222,7 +246,9 @@
             "Children's Literature",
             "Children & Young Adult Reading",
             "Literature"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":14,
@@ -241,7 +267,9 @@
             "Handbooks, manuals, etc.",
             "CIA World Factbooks",
             "Encyclopedias\/Dictionaries\/Reference"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":15,
@@ -260,7 +288,9 @@
             "Mentally ill",
             "Fiction",
             "Ahab, Captain (Fictitious character)"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":16,
@@ -279,14 +309,16 @@
             "Fairies",
             "Fiction",
             "Children's Literature"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":17,
         "Title":"The Book of Mormon",
         "Authors":[
-            "Church of Jesus Christ of Latter-day Saints",
-            "Smith, Joseph, Jr."
+            "Smith, Joseph, Jr.",
+            "Church of Jesus Christ of Latter-day Saints"
         ],
         "Genres":[
             "Church of Jesus Christ of Latter-day Saints",
@@ -297,15 +329,17 @@
             "Latter Day Saints",
             "Philosophy & Ethics",
             "Religion\/Spirituality\/Paranormal"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":18,
         "Title":"The Federalist Papers",
         "Authors":[
             "Hamilton, Alexander",
-            "Jay, John",
-            "Madison, James"
+            "Madison, James",
+            "Jay, John"
         ],
         "Genres":[
             "Constitutional history",
@@ -316,14 +350,16 @@
             "Politics",
             "History - American",
             "Politics"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":19,
         "Title":"The Song of Hiawatha",
         "Authors":[
-            "Morris, Woodrow W. [Editor]",
-            "Longfellow, Henry Wadsworth"
+            "Longfellow, Henry Wadsworth",
+            "Morris, Woodrow W. [Editor]"
         ],
         "Genres":[
             "Indians of North America",
@@ -336,7 +372,9 @@
             "Children's Literature",
             "Poetry",
             "Native America"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":20,
@@ -355,7 +393,9 @@
             "History of Biblical events",
             "Poetry",
             "Poetry"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":21,
@@ -371,7 +411,9 @@
             "Translations into English",
             "Culture\/Civilization\/Society",
             "Literature"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":22,
@@ -386,7 +428,9 @@
             "Encyclopedias\/Dictionaries\/Reference",
             "Language & Communication",
             "Literature"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":23,
@@ -405,7 +449,9 @@
             "United States",
             "Biography",
             "Slavery"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":24,
@@ -424,7 +470,9 @@
             "Siblings",
             "Fiction",
             "Farm life"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":25,
@@ -443,7 +491,9 @@
             "Handbooks, manuals, etc.",
             "CIA World Factbooks",
             "Encyclopedias\/Dictionaries\/Reference"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":26,
@@ -462,7 +512,9 @@
             "History of Biblical events",
             "Poetry",
             "Literature"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":27,
@@ -481,14 +533,16 @@
             "Women farmers",
             "Fiction",
             "Wessex (England)"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":28,
         "Title":"The Fables of Aesop\r\nSelected, Told Anew, and Their History Traced",
         "Authors":[
-            "Jacobs, Joseph [Editor]",
-            "Aesop, 621? BCE-565? BCE"
+            "Aesop, 621? BCE-565? BCE",
+            "Jacobs, Joseph [Editor]"
         ],
         "Genres":[
             "Aesop's fables",
@@ -498,7 +552,9 @@
             "Harvard Classics",
             "Culture\/Civilization\/Society",
             "Literature"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":29,
@@ -517,7 +573,9 @@
             "Statistics",
             "Encyclopedias\/Dictionaries\/Reference",
             "History - American"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":30,
@@ -529,7 +587,9 @@
             "Bible",
             "Philosophy & Ethics",
             "Religion\/Spirituality\/Paranormal"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":31,
@@ -549,7 +609,9 @@
             "Plays",
             "Best Books Ever Listings",
             "Harvard Classics"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":32,
@@ -568,7 +630,9 @@
             "Culture\/Civilization\/Society",
             "Gender & Sexuality Studies",
             "Literature"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":33,
@@ -587,7 +651,9 @@
             "Fiction",
             "Clergy",
             "Fiction"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":34,
@@ -601,7 +667,9 @@
             "Information networks",
             "Information retrieval",
             "Computers & Technology"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":35,
@@ -620,7 +688,9 @@
             "Literature",
             "Science-Fiction & Fantasy",
             "Fiction"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":36,
@@ -639,7 +709,9 @@
             "Fiction",
             "Imaginary wars and battles",
             "Fiction"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":37,
@@ -658,7 +730,9 @@
             "Statistics",
             "Encyclopedias\/Dictionaries\/Reference",
             "History - American"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":38,
@@ -678,7 +752,9 @@
             "Dictionaries",
             "Computers & Technology",
             "Encyclopedias\/Dictionaries\/Reference"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":39,
@@ -690,7 +766,9 @@
             "Internet",
             "Computer networks",
             "Computers & Technology"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":40,
@@ -701,7 +779,9 @@
         "Genres":[
             "Internet",
             "Computers & Technology"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":41,
@@ -720,7 +800,9 @@
             "Harvard Classics",
             "Children & Young Adult Reading",
             "History - American"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":42,
@@ -739,7 +821,9 @@
             "Self-experimentation in medicine",
             "Fiction",
             "Multiple personality"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":43,
@@ -758,7 +842,9 @@
             "Self-experimentation in medicine",
             "Fiction",
             "Multiple personality"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":44,
@@ -777,7 +863,9 @@
             "Fiction",
             "Colorado",
             "Fiction"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":45,
@@ -796,14 +884,16 @@
             "Girls",
             "Fiction",
             "Country life"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":46,
         "Title":"A Christmas Carol in Prose; Being a Ghost Story of Christmas",
         "Authors":[
-            "Dickens, Charles",
-            "Leech, John [Illustrator]"
+            "Leech, John [Illustrator]",
+            "Dickens, Charles"
         ],
         "Genres":[
             "Christmas stories",
@@ -816,7 +906,9 @@
             "Fiction",
             "Sick children",
             "Fiction"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":47,
@@ -835,7 +927,9 @@
             "History",
             "20th century",
             "Fiction"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":48,
@@ -854,7 +948,9 @@
             "Handbooks, manuals, etc.",
             "CIA World Factbooks",
             "Encyclopedias\/Dictionaries\/Reference"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":49,
@@ -870,7 +966,9 @@
             "Electronic mail systems",
             "Directories",
             "Computers & Technology"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":50,
@@ -884,7 +982,9 @@
             "Mathematics",
             "Mathematics",
             "Science - General"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":51,
@@ -903,7 +1003,9 @@
             "Fiction",
             "Canada",
             "History"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":52,
@@ -917,14 +1019,16 @@
             "Mathematics",
             "Mathematics",
             "Science - General"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":53,
         "Title":"Workshop on Electronic Texts: Proceedings, 9-10 June 1992",
         "Authors":[
-            "Library of Congress",
-            "Daly, James [Editor]"
+            "Daly, James [Editor]",
+            "Library of Congress"
         ],
         "Genres":[
             "Text processing (Computer science)",
@@ -934,14 +1038,16 @@
             "Congresses",
             "Computers & Technology",
             "Encyclopedias\/Dictionaries\/Reference"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":54,
         "Title":"The Marvelous Land of Oz",
         "Authors":[
-            "Baum, L. Frank (Lyman Frank)",
-            "Neill, John R. (John Rea) [Illustrator]"
+            "Neill, John R. (John Rea) [Illustrator]",
+            "Baum, L. Frank (Lyman Frank)"
         ],
         "Genres":[
             "Oz (Imaginary place)",
@@ -954,7 +1060,9 @@
             "Voyages and travels",
             "Juvenile fiction",
             "Magic"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":55,
@@ -973,7 +1081,9 @@
             "Good and evil",
             "Juvenile fiction",
             "Dreams"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":56,
@@ -986,7 +1096,9 @@
             "National Research and Education Network (Computer network)",
             "Business\/Management",
             "Computers & Technology"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":57,
@@ -1004,7 +1116,9 @@
             "Children & Young Adult Reading",
             "Culture\/Civilization\/Society",
             "Literature"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":58,
@@ -1023,7 +1137,9 @@
             "Poetry",
             "Literature",
             "Poetry"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":59,
@@ -1041,7 +1157,9 @@
             "Philosophy & Ethics",
             "Psychiatry\/Psychology",
             "Science - General"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":60,
@@ -1060,14 +1178,16 @@
             "France",
             "Fiction",
             "Nobility"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":61,
         "Title":"The Communist Manifesto",
         "Authors":[
-            "Marx, Karl",
-            "Engels, Friedrich"
+            "Engels, Friedrich",
+            "Marx, Karl"
         ],
         "Genres":[
             "Socialism",
@@ -1078,7 +1198,9 @@
             "Philosophy & Ethics",
             "Politics",
             "Sociology"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":62,
@@ -1097,7 +1219,9 @@
             "Dejah Thoris (Fictitious character)",
             "Fiction",
             "Science Fiction"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":63,
@@ -1111,7 +1235,9 @@
             "Historical Fiction",
             "Mathematics",
             "Science - General"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":64,
@@ -1130,7 +1256,9 @@
             "Dejah Thoris (Fictitious character)",
             "Fiction",
             "Science Fiction"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":65,
@@ -1143,7 +1271,9 @@
             "Numbers, Prime",
             "Mathematics",
             "Science - General"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":66,
@@ -1154,7 +1284,9 @@
         "Genres":[
             "Radio broadcasting",
             "Computers & Technology"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":67,
@@ -1170,7 +1302,9 @@
             "History",
             "History - American",
             "History - General"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":68,
@@ -1189,7 +1323,9 @@
             "Science Fiction",
             "Literature",
             "Science-Fiction & Fantasy"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":69,
@@ -1203,7 +1339,9 @@
             "Mathematics",
             "Mathematics",
             "Science - General"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":70,
@@ -1215,7 +1353,9 @@
             "American essays",
             "History - American",
             "Literature"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":71,
@@ -1229,7 +1369,9 @@
             "Philosophy & Ethics",
             "Politics",
             "Sociology"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":72,
@@ -1247,7 +1389,9 @@
             "Literature",
             "Science-Fiction & Fantasy",
             "Fiction"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":73,
@@ -1266,7 +1410,9 @@
             "History",
             "Civil War, 1861-1865",
             "Fiction"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":74,
@@ -1285,7 +1431,9 @@
             "Missouri",
             "Fiction",
             "Sawyer, Tom (Fictitious character)"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":75,
@@ -1296,7 +1444,9 @@
         "Genres":[
             "Electronic mail systems",
             "Computers & Technology"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":76,
@@ -1316,7 +1466,9 @@
             "Missouri",
             "Fiction",
             "Race relations"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":77,
@@ -1335,7 +1487,9 @@
             "Best Books Ever Listings",
             "Culture\/Civilization\/Society",
             "History - American"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":78,
@@ -1354,7 +1508,9 @@
             "Africa",
             "Fiction",
             "Wild men"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":79,
@@ -1373,7 +1529,9 @@
             "Fiction",
             "Computers & Technology",
             "Language & Communication"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":80,
@@ -1384,7 +1542,9 @@
         "Genres":[
             "Internet",
             "Computers & Technology"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":81,
@@ -1400,7 +1560,9 @@
             "Literature",
             "Science-Fiction & Fantasy",
             "Fiction"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":82,
@@ -1419,7 +1581,9 @@
             "History",
             "Richard I, 1189-1199",
             "Fiction"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":83,
@@ -1438,7 +1602,9 @@
             "Manned space flight",
             "Fiction",
             "Science Fiction"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":84,
@@ -1457,7 +1623,9 @@
             "Frankenstein, Victor (Fictitious character)",
             "Fiction",
             "Frankenstein's monster (Fictitious character)"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":85,
@@ -1476,7 +1644,9 @@
             "Movie Books",
             "Literature",
             "Science-Fiction & Fantasy"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":86,
@@ -1495,7 +1665,9 @@
             "Fiction",
             "Americans",
             "Great Britain"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":87,
@@ -1514,7 +1686,9 @@
             "Handbooks, manuals, etc.",
             "CIA World Factbooks",
             "Encyclopedias\/Dictionaries\/Reference"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":88,
@@ -1526,7 +1700,9 @@
             "Cost and standard of living",
             "Economics",
             "Sociology"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":89,
@@ -1545,7 +1721,9 @@
             "North America",
             "Free trade",
             "United States"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":90,
@@ -1563,7 +1741,9 @@
             "Contemporary Reviews",
             "Science-Fiction & Fantasy",
             "Fiction"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":91,
@@ -1582,7 +1762,9 @@
             "Fiction",
             "Literature",
             "Travel & Geography"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":92,
@@ -1599,7 +1781,9 @@
             "Movie Books",
             "Science-Fiction & Fantasy",
             "Fiction"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":93,
@@ -1614,7 +1798,9 @@
             "Crime\/Mystery",
             "Literature",
             "Fiction"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":94,
@@ -1633,7 +1819,9 @@
             "Boston (Mass.)",
             "Fiction",
             "Mistresses"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":95,
@@ -1652,7 +1840,9 @@
             "Kings and rulers",
             "Fiction",
             "Political kidnapping"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":96,
@@ -1667,7 +1857,9 @@
             "Literature",
             "Science-Fiction & Fantasy",
             "Fiction"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":97,
@@ -1682,7 +1874,9 @@
             "Mathematics",
             "Science - General",
             "Science-Fiction & Fantasy"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":98,
@@ -1701,7 +1895,9 @@
             "18th century",
             "Fiction",
             "War stories"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":99,
@@ -1720,7 +1916,9 @@
             "Biographies",
             "Culture\/Civilization\/Society",
             "History - American"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     },
     {
         "Text#":100,
@@ -1734,6 +1932,8 @@
             "Plays",
             "Literature",
             "Fiction"
-        ]
+        ],
+        "ISBN":"1234567890123",
+        "Pages":"100"
     }
 ]

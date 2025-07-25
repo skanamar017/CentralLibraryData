@@ -89,8 +89,8 @@ print(new_df.head())
 
 
 # Add ISBN and Pages columns
-df['ISBN'] = ''
-df['Pages'] = ''
+new_df['ISBN'] = '1234567890123'  # Placeholder ISBN
+new_df['Pages'] = '100'  # Placeholder Pages
 
 new_df100 = new_df.head(100) # Limit to first 100 rows
 
@@ -122,27 +122,10 @@ for idx, row in new_df100.iterrows():
     isbn, pages = lookup_openlibrary(title, author)
     new_df100.at[idx, 'ISBN'] = isbn if isbn else ''
     new_df100.at[idx, 'Pages'] = pages if pages else ''
-    time.sleep(0.100)
-
-    
+    time.sleep(0.100)   
 '''
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+"""
 def lookup_openlibrary(title, author):
     url = f"https://openlibrary.org/search.json?title={title}&author={author}"
     print(url)
@@ -168,11 +151,9 @@ for idx, row in df100.iterrows():
     df100.at[idx, 'ISBN'] = isbn if isbn else ''
     df100.at[idx, 'Pages'] = pages if pages else ''
     time.sleep(0.05)
+"""
 
 
-
-
-df100.to_csv("pg_catalog_with_isbn_pages.csv", index=False)
 
 
 
@@ -189,3 +170,5 @@ new_df100.to_csv('new_pg_catalog_100.csv', index=False)
 
 # Save to JSON
 new_df100.to_json('book_json.json', orient='records', force_ascii=False, indent=4)
+
+
