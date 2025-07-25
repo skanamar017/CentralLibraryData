@@ -1,107 +1,107 @@
 Text#,Title,Authors,Genres,ISBN,Pages
-1,The Declaration of Independence of the United States of America,"['Jefferson, Thomas']","['United States', 'History', 'Revolution, 1775-1783', 'Sources', 'United States. Declaration of Independence', 'Politics', 'American Revolutionary War', 'United States Law', 'History - American', 'History - Warfare']",8274365180805,323
+1,The Declaration of Independence of the United States of America,"['Jefferson, Thomas']","['Politics', 'American Revolutionary War', 'United States Law', 'History - American', 'History - Warfare', 'Politics']",7332959773501,303
 2,"The United States Bill of Rights
-The Ten Original Amendments to the Constitution of the United States",['United States'],"['Civil rights', 'United States', 'Sources', 'United States. Constitution. 1st-10th Amendments', 'Politics', 'American Revolutionary War', 'United States Law', 'History - American', 'Law & Criminology', 'Politics']",4857394878258,485
-3,John F. Kennedy's Inaugural Address,"['Kennedy, John F. (John Fitzgerald)']","['United States', 'Foreign relations', '1961-1963', 'Presidents', 'United States', 'Inaugural addresses', 'History - American', 'Politics']",8989613709565,186
+The Ten Original Amendments to the Constitution of the United States",['United States'],"['Politics', 'American Revolutionary War', 'United States Law', 'History - American', 'Law & Criminology', 'Politics']",9454436486030,137
+3,John F. Kennedy's Inaugural Address,"['Kennedy, John F. (John Fitzgerald)']","['History - American', 'Politics']",2362986051088,453
 4,"Lincoln's Gettysburg Address
-Given November 19, 1863 on the battlefield near Gettysburg, Pennsylvania, USA","['Lincoln, Abraham']","['Consecration of cemeteries', 'Pennsylvania', 'Gettysburg', ""Soldiers' National Cemetery (Gettysburg, Pa.)"", 'Lincoln, Abraham, 1809-1865. Gettysburg address', 'US Civil War', 'History - American', 'Politics']",8231773151308,268
-5,The United States Constitution,['United States'],"['United States', 'Politics and government', '1783-1789', 'Sources', 'United States. Constitution', 'United States', 'Politics', 'American Revolutionary War', 'United States Law', 'History - American']",2519013776379,113
-6,Give Me Liberty or Give Me Death,"['Henry, Patrick']","['Speeches, addresses, etc., American', 'United States', 'Politics and government', '1775-1783', 'Sources', 'Virginia', 'Politics and government', '1775-1783', 'Sources', 'American Revolutionary War']",2698449600597,134
-7,The Mayflower Compact,[],"['Massachusetts', 'History', 'New Plymouth, 1620-1691', 'Sources', 'Pilgrims (New Plymouth Colony)', 'Mayflower Compact (1620)', 'History - American']",1327233839557,472
-8,Abraham Lincoln's Second Inaugural Address,"['Lincoln, Abraham']","['United States', 'Politics and government', '1861-1865', 'Presidents', 'United States', 'Inaugural addresses', 'US Civil War', 'History - American', 'Politics']",7787549610636,328
-9,Abraham Lincoln's First Inaugural Address,"['Lincoln, Abraham']","['United States', 'Politics and government', '1861-1865', 'Presidents', 'United States', 'Inaugural addresses', 'US Civil War', 'History - American', 'Politics']",1262189517832,325
-10,The King James Version of the Bible,[],"['Bible', 'Banned Books List from the American Library Association', 'History - Religious', 'Religion/Spirituality/Paranormal']",1127637388363,426
-11,Alice's Adventures in Wonderland,"['Carroll, Lewis']","['Fantasy fiction', ""Children's stories"", 'Imaginary places', 'Juvenile fiction', 'Alice (Fictitious character from Carroll)', 'Juvenile fiction', ""Children's Literature"", 'Children & Young Adult Reading', 'Fiction']",7010600495980,420
-12,Through the Looking-Glass,"['Carroll, Lewis']","['Fantasy fiction', ""Children's stories"", 'Imaginary places', 'Juvenile fiction', 'Alice (Fictitious character from Carroll)', 'Juvenile fiction', ""Children's Literature"", 'Best Books Ever Listings', 'Children & Young Adult Reading', 'Literature']",9817225550237,153
-13,The Hunting of the Snark: An Agony in Eight Fits,"['Carroll, Lewis']","['Nonsense verses, English', ""Children's Literature"", 'Children & Young Adult Reading', 'Literature']",4976009691384,394
-14,The 1990 CIA World Factbook,['United States. Central Intelligence Agency'],"['World politics', 'Handbooks, manuals, etc.', 'Geography', 'Handbooks, manuals, etc.', 'Political science', 'Handbooks, manuals, etc.', 'Political statistics', 'Handbooks, manuals, etc.', 'CIA World Factbooks', 'Encyclopedias/Dictionaries/Reference']",8988020908892,286
-15,"Moby-Dick; or, The Whale","['Melville, Herman']","['Whaling', 'Fiction', 'Sea stories', 'Psychological fiction', 'Ship captains', 'Fiction', 'Adventure stories', 'Mentally ill', 'Fiction', 'Ahab, Captain (Fictitious character)']",9041528306019,159
-16,Peter Pan,"['Barrie, J. M. (James Matthew)']","['Fantasy literature', 'Peter Pan (Fictitious character)', 'Fiction', 'Never-Never Land (Imaginary place)', 'Fiction', 'Pirates', 'Fiction', 'Fairies', 'Fiction', ""Children's Literature""]",3699208841421,279
-17,The Book of Mormon,"['Church of Jesus Christ of Latter-day Saints', 'Smith, Joseph, Jr.']","['Church of Jesus Christ of Latter-day Saints', 'Sacred books', 'Latter Day Saint churches', 'Sacred books', 'Christianity', 'Latter Day Saints', 'Philosophy & Ethics', 'Religion/Spirituality/Paranormal']",5432306889623,314
-18,The Federalist Papers,"['Hamilton, Alexander', 'Jay, John', 'Madison, James']","['Constitutional history', 'United States', 'Sources', 'Constitutional law', 'United States', 'Politics', 'History - American', 'Politics']",3536523754849,196
-19,The Song of Hiawatha,"['Morris, Woodrow W. [Editor]', 'Longfellow, Henry Wadsworth']","['Indians of North America', 'Poetry', 'Hiawatha, active 15th century', 'Poetry', 'Iroquois Indians', 'Kings and rulers', 'Poetry', ""Children's Literature"", 'Poetry', 'Native America']",3857636725248,274
-20,Paradise Lost,"['Milton, John']","['Fall of man', 'Poetry', 'Adam (Biblical figure)', 'Poetry', 'Eve (Biblical figure)', 'Poetry', 'Bible. Genesis', 'History of Biblical events', 'Poetry', 'Poetry']",9574555423480,144
+Given November 19, 1863 on the battlefield near Gettysburg, Pennsylvania, USA","['Lincoln, Abraham']","['US Civil War', 'History - American', 'Politics']",9716580602398,362
+5,The United States Constitution,['United States'],"['United States', 'Politics', 'American Revolutionary War', 'United States Law', 'History - American', 'Law & Criminology', 'Politics']",7541142115180,195
+6,Give Me Liberty or Give Me Death,"['Henry, Patrick']","['American Revolutionary War', 'History - American', 'History - Warfare', 'Politics']",8428301862026,297
+7,The Mayflower Compact,[],['History - American'],6295595668139,226
+8,Abraham Lincoln's Second Inaugural Address,"['Lincoln, Abraham']","['US Civil War', 'History - American', 'Politics']",8452701436322,347
+9,Abraham Lincoln's First Inaugural Address,"['Lincoln, Abraham']","['US Civil War', 'History - American', 'Politics']",9663996064854,190
+10,The King James Version of the Bible,[],"['Banned Books List from the American Library Association', 'History - Religious', 'Religion/Spirituality/Paranormal']",6050907249503,145
+11,Alice's Adventures in Wonderland,"['Carroll, Lewis']","[""Children's Literature"", 'Children & Young Adult Reading', 'Fiction']",1294668358223,407
+12,Through the Looking-Glass,"['Carroll, Lewis']","[""Children's Literature"", 'Best Books Ever Listings', 'Children & Young Adult Reading', 'Literature', 'Fiction']",9378276267313,476
+13,The Hunting of the Snark: An Agony in Eight Fits,"['Carroll, Lewis']","[""Children's Literature"", 'Children & Young Adult Reading', 'Literature']",5067650808322,413
+14,The 1990 CIA World Factbook,['United States. Central Intelligence Agency'],"['CIA World Factbooks', 'Encyclopedias/Dictionaries/Reference', 'Politics', 'Travel & Geography']",3391467046877,210
+15,"Moby-Dick; or, The Whale","['Melville, Herman']","['Adventure', 'Best Books Ever Listings', 'Literature', 'Fiction']",1792675617464,150
+16,Peter Pan,"['Barrie, J. M. (James Matthew)']","[""Children's Literature"", 'Movie Books', 'Children & Young Adult Reading', 'Literature', 'Science-Fiction & Fantasy', 'Fiction']",5734528772648,500
+17,The Book of Mormon,"['Smith, Joseph, Jr.', 'Church of Jesus Christ of Latter-day Saints']","['Christianity', 'Latter Day Saints', 'Philosophy & Ethics', 'Religion/Spirituality/Paranormal']",6442714085607,274
+18,The Federalist Papers,"['Jay, John', 'Madison, James', 'Hamilton, Alexander']","['Politics', 'History - American', 'Politics']",8272515223452,324
+19,The Song of Hiawatha,"['Longfellow, Henry Wadsworth', 'Morris, Woodrow W. [Editor]']","[""Children's Literature"", 'Poetry', 'Native America', 'Children & Young Adult Reading', 'Culture/Civilization/Society', 'Literature', 'Poetry']",1148591747438,351
+20,Paradise Lost,"['Milton, John']","['Poetry', ""Banned Books from Anne Haight's list"", 'Literature', 'Poetry']",2740839228604,323
 21,"Aesop's Fables
-Translated by George Fyler Townsend","['Aesop, 621? BCE-565? BCE', 'Townsend, George Fyler [Translator]']","['Fables, Greek', 'Translations into English', ""Aesop's fables"", 'Translations into English', 'Culture/Civilization/Society', 'Literature']",1341145610982,378
-22,Roget's Thesaurus,"['Roget, Peter Mark']","['English language', 'Synonyms and antonyms', 'Reference', 'Encyclopedias/Dictionaries/Reference', 'Language & Communication', 'Literature']",6944843404182,143
-23,"Narrative of the Life of Frederick Douglass, an American Slave","['Douglass, Frederick']","['Douglass, Frederick, 1818-1895', 'African American abolitionists', 'Biography', 'Abolitionists', 'United States', 'Biography', 'Enslaved persons', 'United States', 'Biography', 'Slavery']",9182857366628,103
-24,O Pioneers!,"['Cather, Willa']","['Nebraska', 'Fiction', 'Historical fiction', 'Frontier and pioneer life', 'Nebraska', 'Fiction', 'Domestic fiction', 'Siblings', 'Fiction', 'Farm life']",8080774600477,424
-25,The 1991 CIA World Factbook,['United States. Central Intelligence Agency'],"['World politics', 'Handbooks, manuals, etc.', 'Geography', 'Handbooks, manuals, etc.', 'Political science', 'Handbooks, manuals, etc.', 'Political statistics', 'Handbooks, manuals, etc.', 'CIA World Factbooks', 'Encyclopedias/Dictionaries/Reference']",8178383155932,271
-26,Paradise Lost,"['Milton, John']","['Fall of man', 'Poetry', 'Adam (Biblical figure)', 'Poetry', 'Eve (Biblical figure)', 'Poetry', 'Bible. Genesis', 'History of Biblical events', 'Poetry', 'Literature']",6268917692850,125
-27,Far from the Madding Crowd,"['Hardy, Thomas']","['Didactic fiction', 'Love stories', 'Triangles (Interpersonal relations)', 'Fiction', 'Pastoral fiction', 'Farm life', 'Fiction', 'Women farmers', 'Fiction', 'Wessex (England)']",3641906366022,347
+Translated by George Fyler Townsend","['Aesop, 621? BCE-565? BCE', 'Townsend, George Fyler [Translator]']","['Culture/Civilization/Society', 'Literature']",8507256175282,416
+22,Roget's Thesaurus,"['Roget, Peter Mark']","['Reference', 'Encyclopedias/Dictionaries/Reference', 'Language & Communication', 'Literature']",9966938891858,107
+23,"Narrative of the Life of Frederick Douglass, an American Slave","['Douglass, Frederick']","['Slavery', 'African American Writers', 'Biographies', 'Culture/Civilization/Society', 'History - American']",2012547657898,117
+24,O Pioneers!,"['Cather, Willa']","['Culture/Civilization/Society', 'History - American', 'Literature', 'Fiction']",9351395138223,298
+25,The 1991 CIA World Factbook,['United States. Central Intelligence Agency'],"['CIA World Factbooks', 'Encyclopedias/Dictionaries/Reference', 'Politics', 'Travel & Geography']",4085585669108,223
+26,Paradise Lost,"['Milton, John']","['Literature', 'Poetry']",4486308844749,384
+27,Far from the Madding Crowd,"['Hardy, Thomas']","['Culture/Civilization/Society', 'Literature', 'Fiction']",2103402531477,175
 28,"The Fables of Aesop
-Selected, Told Anew, and Their History Traced","['Jacobs, Joseph [Editor]', 'Aesop, 621? BCE-565? BCE']","[""Aesop's fables"", 'Adaptations', 'Fables, Greek', 'Adaptations', 'Harvard Classics', 'Culture/Civilization/Society', 'Literature']",8586271322503,498
-29,The 1990 United States Census,['United States. Bureau of the Census'],"['United States', 'Population', 'Statistics', 'United States', 'Census', 'Housing', 'United States', 'Statistics', 'Encyclopedias/Dictionaries/Reference', 'History - American']",6691310395805,102
-30,"The Bible, King James Version, Complete",[],"['Bible', 'Philosophy & Ethics', 'Religion/Spirituality/Paranormal']",7914832828751,441
-31,Plays of Sophocles: Oedipus the King; Oedipus at Colonus; Antigone,"['Sophocles, 496? BCE-407 BCE', 'Storr, Francis [Translator]']","['Tragedies (Drama)', 'Antigone (Mythological character)', 'Drama', 'Oedipus (Greek mythological figure)', 'Drama', 'Greek drama (Tragedy)', 'Translations into English', 'Plays', 'Best Books Ever Listings', 'Harvard Classics']",2190131403526,398
-32,Herland,"['Gilman, Charlotte Perkins']","['Utopias', 'Fiction', 'Women', 'Fiction', 'Utopian fiction', 'Black humor', 'Best Books Ever Listings', 'Culture/Civilization/Society', 'Gender & Sexuality Studies', 'Literature']",2437722096547,194
-33,The Scarlet Letter,"['Hawthorne, Nathaniel']","['Adultery', 'Fiction', 'Historical fiction', 'Revenge', 'Fiction', 'Psychological fiction', 'Married women', 'Fiction', 'Clergy', 'Fiction']",8192839372233,409
-34,Zen and the Art of the Internet,"['Kehoe, Brendan P.']","['Internet', 'Computer networks', 'Information networks', 'Information retrieval', 'Computers & Technology']",7585799175463,172
-35,The Time Machine,"['Wells, H. G. (Herbert George)']","['Science fiction', 'Time travel', 'Fiction', 'Dystopias', 'Fiction', 'Science Fiction', 'Movie Books', 'Literature', 'Science-Fiction & Fantasy', 'Fiction']",4971561823911,253
-36,The War of the Worlds,"['Wells, H. G. (Herbert George)']","['Science fiction', 'War stories', 'Martians', 'Fiction', 'Mars (Planet)', 'Fiction', 'Space warfare', 'Fiction', 'Imaginary wars and battles', 'Fiction']",4819023058674,228
-37,The 1990 United States Census [2nd],['United States. Bureau of the Census'],"['United States', 'Population', 'Statistics', 'United States', 'Census', 'Housing', 'United States', 'Statistics', 'Encyclopedias/Dictionaries/Reference', 'History - American']",3725065410145,252
-38,"The Jargon File, Version 2.9.10, 01 Jul 1992","['Steele, Guy L. [Editor]', 'Raymond, Eric S. [Editor]']","['Electronic data processing', 'Terminology', 'Humor', 'Computers', 'Humor', 'Computers', 'Slang', 'Dictionaries', 'Computers & Technology', 'Encyclopedias/Dictionaries/Reference']",5511874084854,465
-39,Hitchhiker's Guide to the Internet,"['Krol, Ed']","['Internet', 'Computer networks', 'Computers & Technology']",2771081871640,466
-40,NorthWestNet User Services Internet Resource Guide (NUSIRG),"['Kochmer, Jonathan']","['Internet', 'Computers & Technology']",4153333532418,107
-41,The Legend of Sleepy Hollow,"['Irving, Washington']","['Ghosts', 'Fiction', 'New York (State)', 'History', '1775-1865', 'Fiction', ""Children's Literature"", 'Harvard Classics', 'Children & Young Adult Reading', 'History - American']",2970809705488,110
-42,The Strange Case of Dr. Jekyll and Mr. Hyde,"['Stevenson, Robert Louis']","['Science fiction', 'Horror tales', 'London (England)', 'Fiction', 'Physicians', 'Fiction', 'Psychological fiction', 'Self-experimentation in medicine', 'Fiction', 'Multiple personality']",8922600990774,381
-43,The Strange Case of Dr. Jekyll and Mr. Hyde,"['Stevenson, Robert Louis']","['Science fiction', 'Horror tales', 'London (England)', 'Fiction', 'Physicians', 'Fiction', 'Psychological fiction', 'Self-experimentation in medicine', 'Fiction', 'Multiple personality']",2639942109300,328
-44,The Song of the Lark,"['Cather, Willa']","['Musical fiction', 'Young women', 'Fiction', 'Bildungsromans', 'Chicago (Ill.)', 'Fiction', 'Swedish Americans', 'Fiction', 'Colorado', 'Fiction']",1558189454834,282
-45,Anne of Green Gables,"['Montgomery, L. M. (Lucy Maud)']","['Orphans', 'Fiction', 'Islands', 'Fiction', 'Friendship', 'Fiction', 'Bildungsromans', 'Girls', 'Fiction', 'Country life']",6693420230576,234
-46,A Christmas Carol in Prose; Being a Ghost Story of Christmas,"['Dickens, Charles', 'Leech, John [Illustrator]']","['Christmas stories', 'London (England)', 'Fiction', 'Poor families', 'Fiction', 'Ghost stories', 'Misers', 'Fiction', 'Sick children', 'Fiction']",2615137214585,253
-47,Anne of Avonlea,"['Montgomery, L. M. (Lucy Maud)']","['Orphans', 'Fiction', 'Islands', 'Fiction', 'Teachers', 'Fiction', 'Prince Edward Island', 'History', '20th century', 'Fiction']",5031741349527,337
-48,The 1992 CIA World Factbook,['United States. Central Intelligence Agency'],"['World politics', 'Handbooks, manuals, etc.', 'Geography', 'Handbooks, manuals, etc.', 'Political science', 'Handbooks, manuals, etc.', 'Political statistics', 'Handbooks, manuals, etc.', 'CIA World Factbooks', 'Encyclopedias/Dictionaries/Reference']",2299540270294,326
+Selected, Told Anew, and Their History Traced","['Aesop, 621? BCE-565? BCE', 'Jacobs, Joseph [Editor]']","['Harvard Classics', 'Culture/Civilization/Society', 'Literature']",7383186393654,169
+29,The 1990 United States Census,['United States. Bureau of the Census'],"['Encyclopedias/Dictionaries/Reference', 'History - American', 'Sociology']",2894012148230,388
+30,"The Bible, King James Version, Complete",[],"['Philosophy & Ethics', 'Religion/Spirituality/Paranormal']",6586431390058,143
+31,Plays of Sophocles: Oedipus the King; Oedipus at Colonus; Antigone,"['Sophocles, 496? BCE-407 BCE', 'Storr, Francis [Translator]']","['Plays', 'Best Books Ever Listings', 'Harvard Classics', 'Literature', 'Performing Arts/Film', 'Fiction']",3643584460146,380
+32,Herland,"['Gilman, Charlotte Perkins']","['Best Books Ever Listings', 'Culture/Civilization/Society', 'Gender & Sexuality Studies', 'Literature', 'Fiction']",7999715488609,273
+33,The Scarlet Letter,"['Hawthorne, Nathaniel']","['Harvard Classics', 'Movie Books', 'Culture/Civilization/Society', 'History - American', 'Literature', 'Fiction']",2442113654019,172
+34,Zen and the Art of the Internet,"['Kehoe, Brendan P.']",['Computers & Technology'],4189667827434,499
+35,The Time Machine,"['Wells, H. G. (Herbert George)']","['Science Fiction', 'Movie Books', 'Literature', 'Science-Fiction & Fantasy', 'Fiction']",6226602750567,410
+36,The War of the Worlds,"['Wells, H. G. (Herbert George)']","['Science Fiction', 'Movie Books', 'History - Warfare', 'Science-Fiction & Fantasy', 'Fiction']",6050209085752,404
+37,The 1990 United States Census [2nd],['United States. Bureau of the Census'],"['Encyclopedias/Dictionaries/Reference', 'History - American']",3900583476924,109
+38,"The Jargon File, Version 2.9.10, 01 Jul 1992","['Raymond, Eric S. [Editor]', 'Steele, Guy L. [Editor]']","['Computers & Technology', 'Encyclopedias/Dictionaries/Reference', 'Humour']",7520250395414,108
+39,Hitchhiker's Guide to the Internet,"['Krol, Ed']",['Computers & Technology'],9505016562530,373
+40,NorthWestNet User Services Internet Resource Guide (NUSIRG),"['Kochmer, Jonathan']",['Computers & Technology'],1769523669859,278
+41,The Legend of Sleepy Hollow,"['Irving, Washington']","[""Children's Literature"", 'Harvard Classics', 'Children & Young Adult Reading', 'History - American', 'Literature', 'Fiction']",6970726311016,376
+42,The Strange Case of Dr. Jekyll and Mr. Hyde,"['Stevenson, Robert Louis']","['Precursors of Science Fiction', 'Horror', 'Gothic Fiction', 'Movie Books', 'Literature', 'Science-Fiction & Fantasy', 'Fiction']",9705033912106,197
+43,The Strange Case of Dr. Jekyll and Mr. Hyde,"['Stevenson, Robert Louis']","['Precursors of Science Fiction', 'Horror', 'Movie Books', 'Psychiatry/Psychology', 'Science-Fiction & Fantasy', 'Fiction']",9015570760913,334
+44,The Song of the Lark,"['Cather, Willa']","['Opera', 'Culture/Civilization/Society', 'Literature', 'Fiction']",4927268274356,316
+45,Anne of Green Gables,"['Montgomery, L. M. (Lucy Maud)']","['Canada', ""Children's Literature"", 'Children & Young Adult Reading', 'Culture/Civilization/Society', 'History - General', 'Fiction']",5626071192535,366
+46,A Christmas Carol in Prose; Being a Ghost Story of Christmas,"['Dickens, Charles', 'Leech, John [Illustrator]']","[""Children's Literature"", 'Christmas', 'Children & Young Adult Reading', 'Culture/Civilization/Society', 'Fiction']",5605161094411,444
+47,Anne of Avonlea,"['Montgomery, L. M. (Lucy Maud)']","['Canada', ""Children's Literature"", 'Children & Young Adult Reading', 'Literature', 'Fiction']",7122622459029,308
+48,The 1992 CIA World Factbook,['United States. Central Intelligence Agency'],"['CIA World Factbooks', 'Encyclopedias/Dictionaries/Reference', 'Politics', 'Travel & Geography']",1603444719676,420
 49,"Surfing the Internet: An Introduction
-Version 2.0.2","['Polly, Jean Armour']","['Internet addresses', 'Directories', 'Computer network resources', 'Directories', 'Electronic mail systems', 'Directories', 'Computers & Technology']",7586003462524,355
-50,Pi,"['Hemphill, Scott']","['Mathematics', 'Pi', 'Mathematics', 'Mathematics', 'Science - General']",2976957562941,182
-51,Anne of the Island,"['Montgomery, L. M. (Lucy Maud)']","['Orphans', 'Fiction', 'Prince Edward Island', 'History', '20th century', 'Fiction', 'Interpersonal relations', 'Fiction', 'Canada', 'History']",8446103778241,250
-52,The Square Root of 2,"['Kerr, Stan']","['Mathematics', 'Square root', 'Mathematics', 'Mathematics', 'Science - General']",9963416690608,206
-53,"Workshop on Electronic Texts: Proceedings, 9-10 June 1992","['Daly, James [Editor]', 'Library of Congress']","['Text processing (Computer science)', 'Congresses', 'Electronic books', 'Electronic publishing', 'Congresses', 'Computers & Technology', 'Encyclopedias/Dictionaries/Reference']",6680806679524,165
-54,The Marvelous Land of Oz,"['Neill, John R. (John Rea) [Illustrator]', 'Baum, L. Frank (Lyman Frank)']","['Oz (Imaginary place)', 'Juvenile fiction', 'Fantasy literature', 'Conduct of life', 'Juvenile fiction', 'Friendship', 'Juvenile fiction', 'Voyages and travels', 'Juvenile fiction', 'Magic']",8335246140065,430
-55,The Wonderful Wizard of Oz,"['Baum, L. Frank (Lyman Frank)']","['Oz (Imaginary place)', 'Juvenile fiction', 'Fantasy literature', 'Courage', 'Juvenile fiction', 'Home', 'Juvenile fiction', 'Good and evil', 'Juvenile fiction', 'Dreams']",9366051546341,478
-56,NREN for All: Insurmountable Opportunity,"['Polly, Jean Armour']","['Internet', 'National Research and Education Network (Computer network)', 'Business/Management', 'Computers & Technology']",1656586908367,301
-57,Aladdin and the Magic Lamp,['Unknown'],"['Fairy tales', ""Children's stories"", 'Arabs', 'Folklore', 'Folklore', 'Arab countries', 'Children & Young Adult Reading', 'Culture/Civilization/Society', 'Literature']",9037277321394,111
-58,Paradise Regained,"['Milton, John']","['English poetry', 'Epic poetry', 'Bible. Gospels', 'History of Biblical events', 'Poetry', 'Jesus Christ', 'Temptation', 'Poetry', 'Literature', 'Poetry']",1658637902709,217
-59,Discourse on the Method of Rightly Conducting One's Reason and of Seeking Truth in the Sciences,"['Descartes, René', 'Veitch, John [Translator]']","['Science', 'Methodology', 'Methodology', 'Harvard Classics', 'Philosophy', 'Philosophy & Ethics', 'Psychiatry/Psychology', 'Science - General']",9969701787906,213
-60,The Scarlet Pimpernel,"['Orczy, Emmuska Orczy, Baroness']","['Historical fiction', 'France', 'History', 'Revolution, 1789-1799', 'Fiction', 'Adventure stories', 'British', 'France', 'Fiction', 'Nobility']",3071561929437,152
-61,The Communist Manifesto,"['Engels, Friedrich', 'Marx, Karl']","['Socialism', 'Communism', 'Politics', 'Philosophy', ""Banned Books from Anne Haight's list"", 'Philosophy & Ethics', 'Politics', 'Sociology']",9260206329755,291
-62,A Princess of Mars,"['Burroughs, Edgar Rice']","['Science fiction', 'Mars (Planet)', 'Fiction', 'Princesses', 'Fiction', 'Carter, John (Fictitious character)', 'Fiction', 'Dejah Thoris (Fictitious character)', 'Fiction', 'Science Fiction']",2986093636967,106
-63,"The Number ""e""",['Unknown'],"['Mathematics', 'Mathematical constants', 'Historical Fiction', 'Mathematics', 'Science - General']",8044265707366,236
-64,The Gods of Mars,"['Burroughs, Edgar Rice']","['Science fiction', 'Mars (Planet)', 'Fiction', 'Life on other planets', 'Fiction', 'Carter, John (Fictitious character)', 'Fiction', 'Dejah Thoris (Fictitious character)', 'Fiction', 'Science Fiction']",7415031494661,396
-65,"The First 100,000 Prime Numbers",['Unknown'],"['Mathematics', 'Numbers, Prime', 'Mathematics', 'Science - General']",1546463641895,441
-66,The Dawn of Amateur Radio in the U.K. and Greece: A Personal View,"['Joly, Norman F.']","['Radio broadcasting', 'Computers & Technology']",5469420919562,328
-67,The Black Experience in America,"['Coombs, Norman']","['African Americans', 'History', 'Slavery', 'United States', 'History', 'History - American', 'History - General']",8765574793325,484
-68,The warlord of Mars,"['Burroughs, Edgar Rice']","['Science fiction', 'Mars (Planet)', 'Fiction', 'Carter, John (Fictitious character)', 'Fiction', 'Dejah Thoris (Fictitious character)', 'Fiction', 'Science Fiction', 'Literature', 'Science-Fiction & Fantasy']",7549121393778,459
+Version 2.0.2","['Polly, Jean Armour']",['Computers & Technology'],3130690688016,215
+50,Pi,"['Hemphill, Scott']","['Mathematics', 'Mathematics', 'Science - General']",3746540847840,368
+51,Anne of the Island,"['Montgomery, L. M. (Lucy Maud)']","['Canada', ""Children's Literature"", 'Children & Young Adult Reading', 'Literature', 'Fiction']",6437832349996,239
+52,The Square Root of 2,"['Kerr, Stan']","['Mathematics', 'Mathematics', 'Science - General']",7544507873880,495
+53,"Workshop on Electronic Texts: Proceedings, 9-10 June 1992","['Daly, James [Editor]', 'Library of Congress']","['Computers & Technology', 'Encyclopedias/Dictionaries/Reference']",1366162457946,229
+54,The Marvelous Land of Oz,"['Baum, L. Frank (Lyman Frank)', 'Neill, John R. (John Rea) [Illustrator]']","[""Children's Literature"", 'Fantasy', 'Children & Young Adult Reading', 'Science-Fiction & Fantasy', 'Fiction']",6718528991841,409
+55,The Wonderful Wizard of Oz,"['Baum, L. Frank (Lyman Frank)']","[""Children's Literature"", 'Fantasy', 'Children & Young Adult Reading', 'Science-Fiction & Fantasy', 'Fiction']",4868802465239,258
+56,NREN for All: Insurmountable Opportunity,"['Polly, Jean Armour']","['Business/Management', 'Computers & Technology']",9487330304842,296
+57,Aladdin and the Magic Lamp,['Unknown'],"['Children & Young Adult Reading', 'Culture/Civilization/Society', 'Literature']",3442418367247,206
+58,Paradise Regained,"['Milton, John']","['Literature', 'Poetry']",1763962054439,462
+59,Discourse on the Method of Rightly Conducting One's Reason and of Seeking Truth in the Sciences,"['Descartes, René', 'Veitch, John [Translator]']","['Harvard Classics', 'Philosophy', 'Philosophy & Ethics', 'Psychiatry/Psychology', 'Science - General']",9958146542173,171
+60,The Scarlet Pimpernel,"['Orczy, Emmuska Orczy, Baroness']","['Adventure', 'Best Books Ever Listings', 'Movie Books', 'History - General', 'Literature', 'Fiction']",7049547176580,405
+61,The Communist Manifesto,"['Marx, Karl', 'Engels, Friedrich']","['Politics', 'Philosophy', ""Banned Books from Anne Haight's list"", 'Philosophy & Ethics', 'Politics', 'Sociology']",9424265856279,362
+62,A Princess of Mars,"['Burroughs, Edgar Rice']","['Science Fiction', 'Best Books Ever Listings', 'Literature', 'Science-Fiction & Fantasy', 'Fiction']",1519024613827,304
+63,"The Number ""e""",['Unknown'],"['Historical Fiction', 'Mathematics', 'Science - General']",5028678104058,236
+64,The Gods of Mars,"['Burroughs, Edgar Rice']","['Science Fiction', 'Literature', 'Science-Fiction & Fantasy', 'Fiction']",1339275808143,364
+65,"The First 100,000 Prime Numbers",['Unknown'],"['Mathematics', 'Science - General']",1326787072953,366
+66,The Dawn of Amateur Radio in the U.K. and Greece: A Personal View,"['Joly, Norman F.']",['Computers & Technology'],4974649543292,311
+67,The Black Experience in America,"['Coombs, Norman']","['History - American', 'History - General']",1698423119780,267
+68,The warlord of Mars,"['Burroughs, Edgar Rice']","['Science Fiction', 'Literature', 'Science-Fiction & Fantasy', 'Fiction']",4080868454815,478
 69,"The 32nd Mersenne Prime
-Predicted by Mersenne","['Slowinski, David']","['Numbers, Prime', 'Number theory', 'Mathematics', 'Mathematics', 'Science - General']",7058533902526,296
-70,What Is Man? and Other Essays,"['Twain, Mark']","['American essays', 'History - American', 'Literature']",2799664310152,269
-71,On the Duty of Civil Disobedience,"['Thoreau, Henry David']","['Civil disobedience', 'Government, Resistance to', 'Philosophy & Ethics', 'Politics', 'Sociology']",4535947290260,305
-72,"Thuvia, Maid of Mars","['Burroughs, Edgar Rice']","['Science fiction', 'Martians', 'Fiction', 'Mars (Planet)', 'Fiction', 'Science Fiction', 'Literature', 'Science-Fiction & Fantasy', 'Fiction']",7115100475895,295
-73,The Red Badge of Courage: An Episode of the American Civil War,"['Crane, Stephen']","['Historical fiction', 'War stories', 'United States', 'History', 'Civil War, 1861-1865', 'Fiction', 'Virginia', 'History', 'Civil War, 1861-1865', 'Fiction']",7881203447557,312
-74,"The Adventures of Tom Sawyer, Complete","['Twain, Mark']","['Humorous stories', 'Bildungsromans', 'Boys', 'Fiction', 'Male friendship', 'Fiction', 'Adventure stories', 'Missouri', 'Fiction', 'Sawyer, Tom (Fictitious character)']",6297386891915,374
-75,E-mail 101,"['Goodwin, John E.']","['Electronic mail systems', 'Computers & Technology']",5503743023854,486
-76,Adventures of Huckleberry Finn,"['Twain, Mark', 'Kemble, E. W. (Edward Windsor) [Illustrator]']","['Humorous stories', 'Bildungsromans', 'Boys', 'Fiction', 'Male friendship', 'Fiction', 'Adventure stories', 'Missouri', 'Fiction', 'Race relations']",3486848742217,118
-77,The House of the Seven Gables,"['Hawthorne, Nathaniel']","['Historical fiction', 'Domestic fiction', 'Paranormal fiction', 'Haunted houses', 'Fiction', 'Salem (Mass.)', 'Fiction', 'Best Books Ever Listings', 'Culture/Civilization/Society', 'History - American']",8239638811596,228
-78,Tarzan of the Apes,"['Burroughs, Edgar Rice']","['Tarzan (Fictitious character)', 'Fiction', 'Africa', 'Fiction', 'Fantasy fiction', 'Adventure stories', 'British', 'Africa', 'Fiction', 'Wild men']",9528065591569,490
-79,Terminal Compromise,"['Schwartau, Winn']","['Computer security', 'Fiction', 'Didactic fiction', 'Privacy, Right of', 'Fiction', 'Records', 'Access control', 'Fiction', 'Computers & Technology', 'Language & Communication']",2834473402419,249
-80,The Online World,"['De Presno, Odd']","['Internet', 'Computers & Technology']",9325822158226,442
-81,The Return of Tarzan,"['Burroughs, Edgar Rice']","['Tarzan (Fictitious character)', 'Fiction', 'Fantasy fiction', 'Adventure stories', 'Literature', 'Science-Fiction & Fantasy', 'Fiction']",3354710936468,324
-82,Ivanhoe: A Romance,"['Scott, Walter']","['Historical fiction', 'Knights and knighthood', 'Fiction', 'Love stories', 'Triangles (Interpersonal relations)', 'Fiction', 'Great Britain', 'History', 'Richard I, 1189-1199', 'Fiction']",9735916509792,261
-83,"From the Earth to the Moon; and, Round the Moon","['Verne, Jules']","['Science fiction', 'Space flight to the moon', 'Fiction', 'Moon', 'Fiction', 'Space ships', 'Fiction', 'Manned space flight', 'Fiction', 'Science Fiction']",4087368204771,384
-84,"Frankenstein; Or, The Modern Prometheus","['Shelley, Mary Wollstonecraft']","['Science fiction', 'Horror tales', 'Gothic fiction', 'Scientists', 'Fiction', 'Monsters', 'Fiction', 'Frankenstein, Victor (Fictitious character)', 'Fiction', ""Frankenstein's monster (Fictitious character)""]",7566001176521,460
-85,The Beasts of Tarzan,"['Burroughs, Edgar Rice']","['Tarzan (Fictitious character)', 'Fiction', 'Fantasy fiction', 'Jungle animals', 'Fiction', 'Adventure stories', 'Adventure', 'Movie Books', 'Literature', 'Science-Fiction & Fantasy']",2872765561008,339
-86,A Connecticut Yankee in King Arthur's Court,"['Twain, Mark']","['Fantasy fiction', 'Satire', 'Knights and knighthood', 'Fiction', 'Arthurian romances', 'Adaptations', 'Time travel', 'Fiction', 'Americans', 'Great Britain']",3066969164452,192
-87,The 1993 CIA World Factbook,['United States. Central Intelligence Agency'],"['World politics', 'Handbooks, manuals, etc.', 'Geography', 'Handbooks, manuals, etc.', 'Political science', 'Handbooks, manuals, etc.', 'Political statistics', 'Handbooks, manuals, etc.', 'CIA World Factbooks', 'Encyclopedias/Dictionaries/Reference']",5650276633080,202
-88,Price/Cost Indexes from 1875 to 1989; Estimated to 2010,"['Hart, Michael']","['Cost and standard of living', 'Economics', 'Sociology']",3817607464295,373
-89,"North American Free Trade Agreement, 1992 Oct. 7 Tariff Phasing Descriptions",['Canada'],"['Canada. Treaties, etc. 1992 Oct. 7', 'Tariff', 'Law and legislation', 'North America', 'Free trade', 'North America', 'Foreign trade regulation', 'North America', 'Free trade', 'United States']",8507311991679,223
-90,The Son of Tarzan,"['Burroughs, Edgar Rice']","['Tarzan (Fictitious character)', 'Fiction', 'Fantasy fiction', 'Adventure stories', 'Adventure', 'Movie Books', 'Contemporary Reviews', 'Science-Fiction & Fantasy', 'Fiction']",2768566447323,199
-91,Tom Sawyer Abroad,"['Twain, Mark']","['Adventure stories', 'Sawyer, Tom (Fictitious character)', 'Fiction', 'Balloon ascensions', 'Fiction', 'Americans', 'Foreign countries', 'Fiction', 'Literature', 'Travel & Geography']",2299117390802,278
-92,Tarzan and the Jewels of Opar,"['Burroughs, Edgar Rice']","['Tarzan (Fictitious character)', 'Fiction', 'Fantasy fiction', 'Adventure stories', 'Adventure', 'Movie Books', 'Science-Fiction & Fantasy', 'Fiction']",1171686229741,193
-93,"Tom Sawyer, Detective","['Twain, Mark']","['Sawyer, Tom (Fictitious character)', 'Fiction', 'Mystery fiction', 'Crime/Mystery', 'Literature', 'Fiction']",9139471647809,431
-94,Alexander's Bridge,"['Cather, Willa']","['Civil engineers', 'Fiction', 'London (England)', 'Fiction', 'Psychological fiction', 'Married people', 'Fiction', 'Boston (Mass.)', 'Fiction', 'Mistresses']",9667558604508,407
-95,The prisoner of Zenda,"['Hope, Anthony']","['Love stories', 'Impostors and imposture', 'Fiction', 'Adventure stories', 'British', 'Foreign countries', 'Fiction', 'Kings and rulers', 'Fiction', 'Political kidnapping']",8843137321339,264
-96,The Monster Men,"['Burroughs, Edgar Rice']","['Science fiction', 'Fantasy fiction', 'Science Fiction', 'Literature', 'Science-Fiction & Fantasy', 'Fiction']",5089520452458,421
-97,Flatland: A Romance of Many Dimensions,"['Abbott, Edwin Abbott']","['Fourth dimension', 'Mathematics', 'Science Fiction', 'Mathematics', 'Science - General', 'Science-Fiction & Fantasy']",3812697427855,197
-98,A Tale of Two Cities,"['Dickens, Charles']","['Historical fiction', 'France', 'History', 'Revolution, 1789-1799', 'Fiction', 'London (England)', 'History', '18th century', 'Fiction', 'War stories']",4440401899878,246
-99,Collected Articles of Frederick Douglass,"['Douglass, Frederick']","['Douglass, Frederick, 1818-1895', 'Slavery', 'African American abolitionists', 'Essays', 'Reconstruction (U.S. history, 1865-1877)', 'Slavery', 'African American Writers', 'Biographies', 'Culture/Civilization/Society', 'History - American']",2739372329360,415
-100,The Complete Works of William Shakespeare,"['Shakespeare, William']","['English drama', 'Early modern and Elizabethan, 1500-1600', 'Plays', 'Literature', 'Fiction']",6590272458322,415
+Predicted by Mersenne","['Slowinski, David']","['Mathematics', 'Mathematics', 'Science - General']",5903156385821,455
+70,What Is Man? and Other Essays,"['Twain, Mark']","['History - American', 'Literature']",4737470302068,257
+71,On the Duty of Civil Disobedience,"['Thoreau, Henry David']","['Philosophy & Ethics', 'Politics', 'Sociology']",8898282488672,409
+72,"Thuvia, Maid of Mars","['Burroughs, Edgar Rice']","['Science Fiction', 'Literature', 'Science-Fiction & Fantasy', 'Fiction']",6550911636908,150
+73,The Red Badge of Courage: An Episode of the American Civil War,"['Crane, Stephen']","['US Civil War', 'Historical Fiction', 'Best Books Ever Listings', 'Bestsellers, American, 1895-1923', 'History - American', 'History - Warfare', 'Literature', 'Fiction']",9806151432612,340
+74,"The Adventures of Tom Sawyer, Complete","['Twain, Mark']","[""Banned Books from Anne Haight's list"", 'Banned Books List from the American Library Association', 'Children & Young Adult Reading', 'Humour', 'Literature', 'Fiction']",4899566507102,303
+75,E-mail 101,"['Goodwin, John E.']",['Computers & Technology'],7470631679640,250
+76,Adventures of Huckleberry Finn,"['Twain, Mark', 'Kemble, E. W. (Edward Windsor) [Illustrator]']","['Best Books Ever Listings', ""Banned Books from Anne Haight's list"", 'Banned Books List from the American Library Association', 'Culture/Civilization/Society', 'Humour', 'Literature', 'Fiction']",9970897915744,263
+77,The House of the Seven Gables,"['Hawthorne, Nathaniel']","['Best Books Ever Listings', 'Culture/Civilization/Society', 'History - American', 'Literature', 'Fiction']",2041299137963,297
+78,Tarzan of the Apes,"['Burroughs, Edgar Rice']","['Adventure', 'Movie Books', 'Culture/Civilization/Society', 'Science-Fiction & Fantasy', 'Fiction']",1620863058879,352
+79,Terminal Compromise,"['Schwartau, Winn']","['Computers & Technology', 'Language & Communication', 'Fiction']",3528958229220,135
+80,The Online World,"['De Presno, Odd']",['Computers & Technology'],8228128183564,128
+81,The Return of Tarzan,"['Burroughs, Edgar Rice']","['Literature', 'Science-Fiction & Fantasy', 'Fiction']",1592604347078,127
+82,Ivanhoe: A Romance,"['Scott, Walter']","['Historical Fiction', 'Best Books Ever Listings', 'Culture/Civilization/Society', 'History - Medieval/The Middle Ages', 'Literature', 'Fiction']",9526142350256,472
+83,"From the Earth to the Moon; and, Round the Moon","['Verne, Jules']","['Science Fiction', 'Movie Books', 'Literature', 'Science-Fiction & Fantasy', 'Fiction']",9661745737010,497
+84,"Frankenstein; Or, The Modern Prometheus","['Shelley, Mary Wollstonecraft']","['Gothic Fiction', 'Movie Books', 'Precursors of Science Fiction', 'Science Fiction by Women', 'Culture/Civilization/Society', 'Gender & Sexuality Studies', 'Literature', 'Science-Fiction & Fantasy', 'Fiction']",7642063612316,446
+85,The Beasts of Tarzan,"['Burroughs, Edgar Rice']","['Adventure', 'Movie Books', 'Literature', 'Science-Fiction & Fantasy', 'Fiction']",8502743182519,338
+86,A Connecticut Yankee in King Arthur's Court,"['Twain, Mark']","['Precursors of Science Fiction', 'Arthurian Legends', 'Culture/Civilization/Society', 'Literature', 'Science-Fiction & Fantasy', 'Fiction']",4086994668556,417
+87,The 1993 CIA World Factbook,['United States. Central Intelligence Agency'],"['CIA World Factbooks', 'Encyclopedias/Dictionaries/Reference', 'Politics', 'Travel & Geography']",8754794685684,316
+88,Price/Cost Indexes from 1875 to 1989; Estimated to 2010,"['Hart, Michael']","['Economics', 'Sociology']",4088072222500,131
+89,"North American Free Trade Agreement, 1992 Oct. 7 Tariff Phasing Descriptions",['Canada'],"['Economics', 'Law & Criminology', 'Politics']",5886145090092,483
+90,The Son of Tarzan,"['Burroughs, Edgar Rice']","['Adventure', 'Movie Books', 'Contemporary Reviews', 'Science-Fiction & Fantasy', 'Fiction']",6699258886915,247
+91,Tom Sawyer Abroad,"['Twain, Mark']","['Literature', 'Travel & Geography', 'Fiction']",6326566482606,105
+92,Tarzan and the Jewels of Opar,"['Burroughs, Edgar Rice']","['Adventure', 'Movie Books', 'Science-Fiction & Fantasy', 'Fiction']",9633425527091,439
+93,"Tom Sawyer, Detective","['Twain, Mark']","['Crime/Mystery', 'Literature', 'Fiction']",9278447050855,447
+94,Alexander's Bridge,"['Cather, Willa']","['Architecture', 'Culture/Civilization/Society', 'Literature', 'Psychiatry/Psychology', 'Fiction']",5033540845505,120
+95,The prisoner of Zenda,"['Hope, Anthony']","['Adventure', 'Best Books Ever Listings', 'Movie Books', 'Bestsellers, American, 1895-1923', 'History - British', 'Literature', 'Fiction']",3929199928082,168
+96,The Monster Men,"['Burroughs, Edgar Rice']","['Science Fiction', 'Literature', 'Science-Fiction & Fantasy', 'Fiction']",3646624587451,275
+97,Flatland: A Romance of Many Dimensions,"['Abbott, Edwin Abbott']","['Mathematics', 'Science Fiction', 'Mathematics', 'Science - General', 'Science-Fiction & Fantasy']",7830813285219,310
+98,A Tale of Two Cities,"['Dickens, Charles']","['Historical Fiction', 'History - British', 'History - European', 'History - General', 'Literature', 'Fiction']",9628800451654,486
+99,Collected Articles of Frederick Douglass,"['Douglass, Frederick']","['Slavery', 'African American Writers', 'Biographies', 'Culture/Civilization/Society', 'History - American', 'Literature', 'Politics']",5613928674568,164
+100,The Complete Works of William Shakespeare,"['Shakespeare, William']","['Plays', 'Literature', 'Fiction']",1436983836628,494

@@ -13,11 +13,10 @@ df = pd.read_csv('pg_catalog.csv')# Load the CSV file into a DataFrame
 
 
 # Split Subjects and Bookshelves by ';'
-df['Subjects'] = df['Subjects'].str.split(';')
 df['Bookshelves'] = df['Bookshelves'].str.split(';')
 
 # Combine them into Genres
-df['Genres'] = df['Subjects'] + df['Bookshelves']
+df['Genres'] = df['Bookshelves']
 
 # remove dates from authors
 def clean_authors(authors):    
