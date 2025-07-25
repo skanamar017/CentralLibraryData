@@ -8,11 +8,7 @@ import random
 
 df = pd.read_csv('pg_catalog.csv')# Load the CSV file into a DataFrame
 
-#print(df.columns)
-
-
-
-# Split Subjects and Bookshelves by ';'
+# Split Bookshelves by ';'
 df['Bookshelves'] = df['Bookshelves'].str.split(';')
 
 # Combine them into Genres
@@ -22,7 +18,7 @@ df['Genres'] = df['Bookshelves']
 def clean_authors(authors):    
     if not isinstance(authors, str):
         return authors
-    return re.sub(r",? ?\d{4}-\d{0,4}", "", authors)
+    return re.sub(r",? ?\d{4}-\d{0,4}", "", authors) # Remove year in parentheses
 df['Authors'] = df['Authors'].apply(clean_authors)
 
 
@@ -42,14 +38,6 @@ def split_double_dash(genres_list):
     return result
 
 df['Genres'] = df['Genres'].apply(split_double_dash) # Ensure Genres is a list
-
-# Remove dates from Authors
-def clean_author(author): # Ensure Author is a string
-    if not isinstance(author, str):
-        return author
-    return re.sub(r'\s*\(\d{4}(-\d{4})?\)', '', author) # Remove year in parentheses
-
-df['Authors'] = df['Authors'].apply(clean_author)
 
 # Split authors by ';' and remove duplicates
 def split_authors(authors):
@@ -108,5 +96,4 @@ new_df100.to_csv('new_pg_catalog_100.csv', index=False)
 
 # Save to JSON
 new_df100.to_json('book_json.json', orient='records', force_ascii=False, indent=4)
-
 

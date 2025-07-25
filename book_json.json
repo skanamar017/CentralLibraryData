@@ -13,8 +13,8 @@
             "History - Warfare",
             "Politics"
         ],
-        "ISBN":"7332959773501",
-        "Pages":303
+        "ISBN":"6167720473798",
+        "Pages":238
     },
     {
         "Text#":2,
@@ -30,8 +30,8 @@
             "Law & Criminology",
             "Politics"
         ],
-        "ISBN":"9454436486030",
-        "Pages":137
+        "ISBN":"6696109283380",
+        "Pages":411
     },
     {
         "Text#":3,
@@ -43,8 +43,8 @@
             "History - American",
             "Politics"
         ],
-        "ISBN":"2362986051088",
-        "Pages":453
+        "ISBN":"3166287914241",
+        "Pages":326
     },
     {
         "Text#":4,
@@ -57,8 +57,8 @@
             "History - American",
             "Politics"
         ],
-        "ISBN":"9716580602398",
-        "Pages":362
+        "ISBN":"6873689249204",
+        "Pages":331
     },
     {
         "Text#":5,
@@ -75,8 +75,8 @@
             "Law & Criminology",
             "Politics"
         ],
-        "ISBN":"7541142115180",
-        "Pages":195
+        "ISBN":"2627916027400",
+        "Pages":190
     },
     {
         "Text#":6,
@@ -90,8 +90,8 @@
             "History - Warfare",
             "Politics"
         ],
-        "ISBN":"8428301862026",
-        "Pages":297
+        "ISBN":"1191590309746",
+        "Pages":144
     },
     {
         "Text#":7,
@@ -102,8 +102,8 @@
         "Genres":[
             "History - American"
         ],
-        "ISBN":"6295595668139",
-        "Pages":226
+        "ISBN":"2980523159955",
+        "Pages":358
     },
     {
         "Text#":8,
@@ -116,8 +116,8 @@
             "History - American",
             "Politics"
         ],
-        "ISBN":"8452701436322",
-        "Pages":347
+        "ISBN":"8327493607142",
+        "Pages":328
     },
     {
         "Text#":9,
@@ -130,8 +130,8 @@
             "History - American",
             "Politics"
         ],
-        "ISBN":"9663996064854",
-        "Pages":190
+        "ISBN":"7085050464289",
+        "Pages":206
     },
     {
         "Text#":10,
@@ -144,8 +144,8 @@
             "History - Religious",
             "Religion\/Spirituality\/Paranormal"
         ],
-        "ISBN":"6050907249503",
-        "Pages":145
+        "ISBN":"6357899040562",
+        "Pages":483
     },
     {
         "Text#":11,
@@ -158,8 +158,8 @@
             "Children & Young Adult Reading",
             "Fiction"
         ],
-        "ISBN":"1294668358223",
-        "Pages":407
+        "ISBN":"2342443941946",
+        "Pages":169
     },
     {
         "Text#":12,
@@ -174,8 +174,8 @@
             "Literature",
             "Fiction"
         ],
-        "ISBN":"9378276267313",
-        "Pages":476
+        "ISBN":"9615154133468",
+        "Pages":131
     },
     {
         "Text#":13,
@@ -188,8 +188,8 @@
             "Children & Young Adult Reading",
             "Literature"
         ],
-        "ISBN":"5067650808322",
-        "Pages":413
+        "ISBN":"2790092497169",
+        "Pages":332
     },
     {
         "Text#":14,
@@ -203,8 +203,8 @@
             "Politics",
             "Travel & Geography"
         ],
-        "ISBN":"3391467046877",
-        "Pages":210
+        "ISBN":"6570197494210",
+        "Pages":255
     },
     {
         "Text#":15,
@@ -218,8 +218,8 @@
             "Literature",
             "Fiction"
         ],
-        "ISBN":"1792675617464",
-        "Pages":150
+        "ISBN":"6291017224772",
+        "Pages":259
     },
     {
         "Text#":16,
@@ -235,15 +235,15 @@
             "Science-Fiction & Fantasy",
             "Fiction"
         ],
-        "ISBN":"5734528772648",
-        "Pages":500
+        "ISBN":"1452414579802",
+        "Pages":227
     },
     {
         "Text#":17,
         "Title":"The Book of Mormon",
         "Authors":[
-            "Smith, Joseph, Jr.",
-            "Church of Jesus Christ of Latter-day Saints"
+            "Church of Jesus Christ of Latter-day Saints",
+            "Smith, Joseph, Jr."
         ],
         "Genres":[
             "Christianity",
@@ -251,24 +251,24 @@
             "Philosophy & Ethics",
             "Religion\/Spirituality\/Paranormal"
         ],
-        "ISBN":"6442714085607",
-        "Pages":274
+        "ISBN":"6308397327631",
+        "Pages":190
     },
     {
         "Text#":18,
         "Title":"The Federalist Papers",
         "Authors":[
+            "Hamilton, Alexander",
             "Jay, John",
-            "Madison, James",
-            "Hamilton, Alexander"
+            "Madison, James"
         ],
         "Genres":[
             "Politics",
             "History - American",
             "Politics"
         ],
-        "ISBN":"8272515223452",
-        "Pages":324
+        "ISBN":"1955106646277",
+        "Pages":172
     },
     {
         "Text#":19,
@@ -286,8 +286,8 @@
             "Literature",
             "Poetry"
         ],
-        "ISBN":"1148591747438",
-        "Pages":351
+        "ISBN":"2379461075089",
+        "Pages":120
     },
     {
         "Text#":20,
@@ -301,8 +301,8 @@
             "Literature",
             "Poetry"
         ],
-        "ISBN":"2740839228604",
-        "Pages":323
+        "ISBN":"3001987325331",
+        "Pages":136
     },
     {
         "Text#":21,
@@ -315,8 +315,8 @@
             "Culture\/Civilization\/Society",
             "Literature"
         ],
-        "ISBN":"8507256175282",
-        "Pages":416
+        "ISBN":"9423387611848",
+        "Pages":187
     },
     {
         "Text#":22,
@@ -330,8 +330,8 @@
             "Language & Communication",
             "Literature"
         ],
-        "ISBN":"9966938891858",
-        "Pages":107
+        "ISBN":"3107835275406",
+        "Pages":396
     },
     {
         "Text#":23,
@@ -346,8 +346,8 @@
             "Culture\/Civilization\/Society",
             "History - American"
         ],
-        "ISBN":"2012547657898",
-        "Pages":117
+        "ISBN":"7901455888110",
+        "Pages":147
     },
     {
         "Text#":24,
@@ -361,8 +361,8 @@
             "Literature",
             "Fiction"
         ],
-        "ISBN":"9351395138223",
-        "Pages":298
+        "ISBN":"7994998245778",
+        "Pages":165
     },
     {
         "Text#":25,
@@ -376,8 +376,8 @@
             "Politics",
             "Travel & Geography"
         ],
-        "ISBN":"4085585669108",
-        "Pages":223
+        "ISBN":"5074957886218",
+        "Pages":374
     },
     {
         "Text#":26,
@@ -389,8 +389,8 @@
             "Literature",
             "Poetry"
         ],
-        "ISBN":"4486308844749",
-        "Pages":384
+        "ISBN":"9097604882579",
+        "Pages":387
     },
     {
         "Text#":27,
@@ -403,8 +403,8 @@
             "Literature",
             "Fiction"
         ],
-        "ISBN":"2103402531477",
-        "Pages":175
+        "ISBN":"4538438226592",
+        "Pages":130
     },
     {
         "Text#":28,
@@ -418,8 +418,8 @@
             "Culture\/Civilization\/Society",
             "Literature"
         ],
-        "ISBN":"7383186393654",
-        "Pages":169
+        "ISBN":"2601436266630",
+        "Pages":324
     },
     {
         "Text#":29,
@@ -432,8 +432,8 @@
             "History - American",
             "Sociology"
         ],
-        "ISBN":"2894012148230",
-        "Pages":388
+        "ISBN":"1060272382510",
+        "Pages":368
     },
     {
         "Text#":30,
@@ -445,15 +445,15 @@
             "Philosophy & Ethics",
             "Religion\/Spirituality\/Paranormal"
         ],
-        "ISBN":"6586431390058",
-        "Pages":143
+        "ISBN":"2060584259193",
+        "Pages":276
     },
     {
         "Text#":31,
         "Title":"Plays of Sophocles: Oedipus the King; Oedipus at Colonus; Antigone",
         "Authors":[
-            "Sophocles, 496? BCE-407 BCE",
-            "Storr, Francis [Translator]"
+            "Storr, Francis [Translator]",
+            "Sophocles, 496? BCE-407 BCE"
         ],
         "Genres":[
             "Plays",
@@ -463,8 +463,8 @@
             "Performing Arts\/Film",
             "Fiction"
         ],
-        "ISBN":"3643584460146",
-        "Pages":380
+        "ISBN":"9459649086853",
+        "Pages":342
     },
     {
         "Text#":32,
@@ -479,8 +479,8 @@
             "Literature",
             "Fiction"
         ],
-        "ISBN":"7999715488609",
-        "Pages":273
+        "ISBN":"1829579199744",
+        "Pages":405
     },
     {
         "Text#":33,
@@ -496,8 +496,8 @@
             "Literature",
             "Fiction"
         ],
-        "ISBN":"2442113654019",
-        "Pages":172
+        "ISBN":"9627043318051",
+        "Pages":471
     },
     {
         "Text#":34,
@@ -508,8 +508,8 @@
         "Genres":[
             "Computers & Technology"
         ],
-        "ISBN":"4189667827434",
-        "Pages":499
+        "ISBN":"1942591068460",
+        "Pages":209
     },
     {
         "Text#":35,
@@ -524,8 +524,8 @@
             "Science-Fiction & Fantasy",
             "Fiction"
         ],
-        "ISBN":"6226602750567",
-        "Pages":410
+        "ISBN":"7871993597855",
+        "Pages":110
     },
     {
         "Text#":36,
@@ -540,8 +540,8 @@
             "Science-Fiction & Fantasy",
             "Fiction"
         ],
-        "ISBN":"6050209085752",
-        "Pages":404
+        "ISBN":"7439773853524",
+        "Pages":287
     },
     {
         "Text#":37,
@@ -553,23 +553,23 @@
             "Encyclopedias\/Dictionaries\/Reference",
             "History - American"
         ],
-        "ISBN":"3900583476924",
-        "Pages":109
+        "ISBN":"8703077175858",
+        "Pages":252
     },
     {
         "Text#":38,
         "Title":"The Jargon File, Version 2.9.10, 01 Jul 1992",
         "Authors":[
-            "Raymond, Eric S. [Editor]",
-            "Steele, Guy L. [Editor]"
+            "Steele, Guy L. [Editor]",
+            "Raymond, Eric S. [Editor]"
         ],
         "Genres":[
             "Computers & Technology",
             "Encyclopedias\/Dictionaries\/Reference",
             "Humour"
         ],
-        "ISBN":"7520250395414",
-        "Pages":108
+        "ISBN":"9651474819003",
+        "Pages":291
     },
     {
         "Text#":39,
@@ -580,8 +580,8 @@
         "Genres":[
             "Computers & Technology"
         ],
-        "ISBN":"9505016562530",
-        "Pages":373
+        "ISBN":"2729718488640",
+        "Pages":444
     },
     {
         "Text#":40,
@@ -592,8 +592,8 @@
         "Genres":[
             "Computers & Technology"
         ],
-        "ISBN":"1769523669859",
-        "Pages":278
+        "ISBN":"2059417363567",
+        "Pages":274
     },
     {
         "Text#":41,
@@ -609,8 +609,8 @@
             "Literature",
             "Fiction"
         ],
-        "ISBN":"6970726311016",
-        "Pages":376
+        "ISBN":"2909469780014",
+        "Pages":227
     },
     {
         "Text#":42,
@@ -627,8 +627,8 @@
             "Science-Fiction & Fantasy",
             "Fiction"
         ],
-        "ISBN":"9705033912106",
-        "Pages":197
+        "ISBN":"5842482270838",
+        "Pages":410
     },
     {
         "Text#":43,
@@ -644,8 +644,8 @@
             "Science-Fiction & Fantasy",
             "Fiction"
         ],
-        "ISBN":"9015570760913",
-        "Pages":334
+        "ISBN":"9955901603855",
+        "Pages":168
     },
     {
         "Text#":44,
@@ -659,8 +659,8 @@
             "Literature",
             "Fiction"
         ],
-        "ISBN":"4927268274356",
-        "Pages":316
+        "ISBN":"3275497885090",
+        "Pages":159
     },
     {
         "Text#":45,
@@ -676,15 +676,15 @@
             "History - General",
             "Fiction"
         ],
-        "ISBN":"5626071192535",
-        "Pages":366
+        "ISBN":"1023521964412",
+        "Pages":377
     },
     {
         "Text#":46,
         "Title":"A Christmas Carol in Prose; Being a Ghost Story of Christmas",
         "Authors":[
-            "Dickens, Charles",
-            "Leech, John [Illustrator]"
+            "Leech, John [Illustrator]",
+            "Dickens, Charles"
         ],
         "Genres":[
             "Children's Literature",
@@ -693,8 +693,8 @@
             "Culture\/Civilization\/Society",
             "Fiction"
         ],
-        "ISBN":"5605161094411",
-        "Pages":444
+        "ISBN":"5343679648703",
+        "Pages":479
     },
     {
         "Text#":47,
@@ -709,8 +709,8 @@
             "Literature",
             "Fiction"
         ],
-        "ISBN":"7122622459029",
-        "Pages":308
+        "ISBN":"6544121814752",
+        "Pages":198
     },
     {
         "Text#":48,
@@ -724,8 +724,8 @@
             "Politics",
             "Travel & Geography"
         ],
-        "ISBN":"1603444719676",
-        "Pages":420
+        "ISBN":"9285556744035",
+        "Pages":471
     },
     {
         "Text#":49,
@@ -736,8 +736,8 @@
         "Genres":[
             "Computers & Technology"
         ],
-        "ISBN":"3130690688016",
-        "Pages":215
+        "ISBN":"6946612805832",
+        "Pages":444
     },
     {
         "Text#":50,
@@ -750,8 +750,8 @@
             "Mathematics",
             "Science - General"
         ],
-        "ISBN":"3746540847840",
-        "Pages":368
+        "ISBN":"9585162700559",
+        "Pages":163
     },
     {
         "Text#":51,
@@ -766,8 +766,8 @@
             "Literature",
             "Fiction"
         ],
-        "ISBN":"6437832349996",
-        "Pages":239
+        "ISBN":"6205082194381",
+        "Pages":220
     },
     {
         "Text#":52,
@@ -780,8 +780,8 @@
             "Mathematics",
             "Science - General"
         ],
-        "ISBN":"7544507873880",
-        "Pages":495
+        "ISBN":"8848267014273",
+        "Pages":193
     },
     {
         "Text#":53,
@@ -794,8 +794,8 @@
             "Computers & Technology",
             "Encyclopedias\/Dictionaries\/Reference"
         ],
-        "ISBN":"1366162457946",
-        "Pages":229
+        "ISBN":"3899122900427",
+        "Pages":148
     },
     {
         "Text#":54,
@@ -811,8 +811,8 @@
             "Science-Fiction & Fantasy",
             "Fiction"
         ],
-        "ISBN":"6718528991841",
-        "Pages":409
+        "ISBN":"9634005019076",
+        "Pages":304
     },
     {
         "Text#":55,
@@ -827,8 +827,8 @@
             "Science-Fiction & Fantasy",
             "Fiction"
         ],
-        "ISBN":"4868802465239",
-        "Pages":258
+        "ISBN":"3757458498225",
+        "Pages":217
     },
     {
         "Text#":56,
@@ -840,8 +840,8 @@
             "Business\/Management",
             "Computers & Technology"
         ],
-        "ISBN":"9487330304842",
-        "Pages":296
+        "ISBN":"6289717462175",
+        "Pages":453
     },
     {
         "Text#":57,
@@ -854,8 +854,8 @@
             "Culture\/Civilization\/Society",
             "Literature"
         ],
-        "ISBN":"3442418367247",
-        "Pages":206
+        "ISBN":"2659702507182",
+        "Pages":127
     },
     {
         "Text#":58,
@@ -867,15 +867,15 @@
             "Literature",
             "Poetry"
         ],
-        "ISBN":"1763962054439",
-        "Pages":462
+        "ISBN":"8553608723168",
+        "Pages":409
     },
     {
         "Text#":59,
         "Title":"Discourse on the Method of Rightly Conducting One's Reason and of Seeking Truth in the Sciences",
         "Authors":[
-            "Descartes, René",
-            "Veitch, John [Translator]"
+            "Veitch, John [Translator]",
+            "Descartes, René"
         ],
         "Genres":[
             "Harvard Classics",
@@ -884,8 +884,8 @@
             "Psychiatry\/Psychology",
             "Science - General"
         ],
-        "ISBN":"9958146542173",
-        "Pages":171
+        "ISBN":"8456735575896",
+        "Pages":297
     },
     {
         "Text#":60,
@@ -901,15 +901,15 @@
             "Literature",
             "Fiction"
         ],
-        "ISBN":"7049547176580",
-        "Pages":405
+        "ISBN":"4985005207963",
+        "Pages":214
     },
     {
         "Text#":61,
         "Title":"The Communist Manifesto",
         "Authors":[
-            "Marx, Karl",
-            "Engels, Friedrich"
+            "Engels, Friedrich",
+            "Marx, Karl"
         ],
         "Genres":[
             "Politics",
@@ -919,8 +919,8 @@
             "Politics",
             "Sociology"
         ],
-        "ISBN":"9424265856279",
-        "Pages":362
+        "ISBN":"6171229091440",
+        "Pages":243
     },
     {
         "Text#":62,
@@ -935,8 +935,8 @@
             "Science-Fiction & Fantasy",
             "Fiction"
         ],
-        "ISBN":"1519024613827",
-        "Pages":304
+        "ISBN":"2695430688673",
+        "Pages":431
     },
     {
         "Text#":63,
@@ -949,8 +949,8 @@
             "Mathematics",
             "Science - General"
         ],
-        "ISBN":"5028678104058",
-        "Pages":236
+        "ISBN":"6892022633113",
+        "Pages":414
     },
     {
         "Text#":64,
@@ -964,8 +964,8 @@
             "Science-Fiction & Fantasy",
             "Fiction"
         ],
-        "ISBN":"1339275808143",
-        "Pages":364
+        "ISBN":"5544518437323",
+        "Pages":432
     },
     {
         "Text#":65,
@@ -977,8 +977,8 @@
             "Mathematics",
             "Science - General"
         ],
-        "ISBN":"1326787072953",
-        "Pages":366
+        "ISBN":"7986828272043",
+        "Pages":163
     },
     {
         "Text#":66,
@@ -989,8 +989,8 @@
         "Genres":[
             "Computers & Technology"
         ],
-        "ISBN":"4974649543292",
-        "Pages":311
+        "ISBN":"9842790751425",
+        "Pages":497
     },
     {
         "Text#":67,
@@ -1002,8 +1002,8 @@
             "History - American",
             "History - General"
         ],
-        "ISBN":"1698423119780",
-        "Pages":267
+        "ISBN":"5927561840219",
+        "Pages":178
     },
     {
         "Text#":68,
@@ -1017,8 +1017,8 @@
             "Science-Fiction & Fantasy",
             "Fiction"
         ],
-        "ISBN":"4080868454815",
-        "Pages":478
+        "ISBN":"1649860559583",
+        "Pages":464
     },
     {
         "Text#":69,
@@ -1031,8 +1031,8 @@
             "Mathematics",
             "Science - General"
         ],
-        "ISBN":"5903156385821",
-        "Pages":455
+        "ISBN":"9223541336891",
+        "Pages":492
     },
     {
         "Text#":70,
@@ -1044,8 +1044,8 @@
             "History - American",
             "Literature"
         ],
-        "ISBN":"4737470302068",
-        "Pages":257
+        "ISBN":"2181423451864",
+        "Pages":102
     },
     {
         "Text#":71,
@@ -1058,8 +1058,8 @@
             "Politics",
             "Sociology"
         ],
-        "ISBN":"8898282488672",
-        "Pages":409
+        "ISBN":"2617248346060",
+        "Pages":204
     },
     {
         "Text#":72,
@@ -1073,8 +1073,8 @@
             "Science-Fiction & Fantasy",
             "Fiction"
         ],
-        "ISBN":"6550911636908",
-        "Pages":150
+        "ISBN":"5926051422790",
+        "Pages":292
     },
     {
         "Text#":73,
@@ -1092,8 +1092,8 @@
             "Literature",
             "Fiction"
         ],
-        "ISBN":"9806151432612",
-        "Pages":340
+        "ISBN":"5307276266744",
+        "Pages":126
     },
     {
         "Text#":74,
@@ -1109,8 +1109,8 @@
             "Literature",
             "Fiction"
         ],
-        "ISBN":"4899566507102",
-        "Pages":303
+        "ISBN":"8156220183657",
+        "Pages":318
     },
     {
         "Text#":75,
@@ -1121,15 +1121,15 @@
         "Genres":[
             "Computers & Technology"
         ],
-        "ISBN":"7470631679640",
-        "Pages":250
+        "ISBN":"9199809255717",
+        "Pages":149
     },
     {
         "Text#":76,
         "Title":"Adventures of Huckleberry Finn",
         "Authors":[
-            "Twain, Mark",
-            "Kemble, E. W. (Edward Windsor) [Illustrator]"
+            "Kemble, E. W. (Edward Windsor) [Illustrator]",
+            "Twain, Mark"
         ],
         "Genres":[
             "Best Books Ever Listings",
@@ -1140,8 +1140,8 @@
             "Literature",
             "Fiction"
         ],
-        "ISBN":"9970897915744",
-        "Pages":263
+        "ISBN":"1675318444311",
+        "Pages":339
     },
     {
         "Text#":77,
@@ -1156,8 +1156,8 @@
             "Literature",
             "Fiction"
         ],
-        "ISBN":"2041299137963",
-        "Pages":297
+        "ISBN":"1809656106585",
+        "Pages":274
     },
     {
         "Text#":78,
@@ -1172,8 +1172,8 @@
             "Science-Fiction & Fantasy",
             "Fiction"
         ],
-        "ISBN":"1620863058879",
-        "Pages":352
+        "ISBN":"5225308566385",
+        "Pages":232
     },
     {
         "Text#":79,
@@ -1186,8 +1186,8 @@
             "Language & Communication",
             "Fiction"
         ],
-        "ISBN":"3528958229220",
-        "Pages":135
+        "ISBN":"5763287816369",
+        "Pages":258
     },
     {
         "Text#":80,
@@ -1198,8 +1198,8 @@
         "Genres":[
             "Computers & Technology"
         ],
-        "ISBN":"8228128183564",
-        "Pages":128
+        "ISBN":"1089226782195",
+        "Pages":197
     },
     {
         "Text#":81,
@@ -1212,8 +1212,8 @@
             "Science-Fiction & Fantasy",
             "Fiction"
         ],
-        "ISBN":"1592604347078",
-        "Pages":127
+        "ISBN":"2139602781277",
+        "Pages":199
     },
     {
         "Text#":82,
@@ -1229,8 +1229,8 @@
             "Literature",
             "Fiction"
         ],
-        "ISBN":"9526142350256",
-        "Pages":472
+        "ISBN":"5094756533433",
+        "Pages":263
     },
     {
         "Text#":83,
@@ -1245,8 +1245,8 @@
             "Science-Fiction & Fantasy",
             "Fiction"
         ],
-        "ISBN":"9661745737010",
-        "Pages":497
+        "ISBN":"8359584878450",
+        "Pages":396
     },
     {
         "Text#":84,
@@ -1265,8 +1265,8 @@
             "Science-Fiction & Fantasy",
             "Fiction"
         ],
-        "ISBN":"7642063612316",
-        "Pages":446
+        "ISBN":"4393410969878",
+        "Pages":157
     },
     {
         "Text#":85,
@@ -1281,8 +1281,8 @@
             "Science-Fiction & Fantasy",
             "Fiction"
         ],
-        "ISBN":"8502743182519",
-        "Pages":338
+        "ISBN":"7775379088484",
+        "Pages":389
     },
     {
         "Text#":86,
@@ -1298,8 +1298,8 @@
             "Science-Fiction & Fantasy",
             "Fiction"
         ],
-        "ISBN":"4086994668556",
-        "Pages":417
+        "ISBN":"3335355898478",
+        "Pages":293
     },
     {
         "Text#":87,
@@ -1313,8 +1313,8 @@
             "Politics",
             "Travel & Geography"
         ],
-        "ISBN":"8754794685684",
-        "Pages":316
+        "ISBN":"1915268012793",
+        "Pages":417
     },
     {
         "Text#":88,
@@ -1326,8 +1326,8 @@
             "Economics",
             "Sociology"
         ],
-        "ISBN":"4088072222500",
-        "Pages":131
+        "ISBN":"9012719401460",
+        "Pages":311
     },
     {
         "Text#":89,
@@ -1340,8 +1340,8 @@
             "Law & Criminology",
             "Politics"
         ],
-        "ISBN":"5886145090092",
-        "Pages":483
+        "ISBN":"7108373353917",
+        "Pages":203
     },
     {
         "Text#":90,
@@ -1356,8 +1356,8 @@
             "Science-Fiction & Fantasy",
             "Fiction"
         ],
-        "ISBN":"6699258886915",
-        "Pages":247
+        "ISBN":"6501720027566",
+        "Pages":499
     },
     {
         "Text#":91,
@@ -1370,8 +1370,8 @@
             "Travel & Geography",
             "Fiction"
         ],
-        "ISBN":"6326566482606",
-        "Pages":105
+        "ISBN":"7469183650926",
+        "Pages":280
     },
     {
         "Text#":92,
@@ -1385,8 +1385,8 @@
             "Science-Fiction & Fantasy",
             "Fiction"
         ],
-        "ISBN":"9633425527091",
-        "Pages":439
+        "ISBN":"7361842428669",
+        "Pages":166
     },
     {
         "Text#":93,
@@ -1399,8 +1399,8 @@
             "Literature",
             "Fiction"
         ],
-        "ISBN":"9278447050855",
-        "Pages":447
+        "ISBN":"3641722027320",
+        "Pages":254
     },
     {
         "Text#":94,
@@ -1415,8 +1415,8 @@
             "Psychiatry\/Psychology",
             "Fiction"
         ],
-        "ISBN":"5033540845505",
-        "Pages":120
+        "ISBN":"4152983287809",
+        "Pages":247
     },
     {
         "Text#":95,
@@ -1433,8 +1433,8 @@
             "Literature",
             "Fiction"
         ],
-        "ISBN":"3929199928082",
-        "Pages":168
+        "ISBN":"1346778912167",
+        "Pages":280
     },
     {
         "Text#":96,
@@ -1448,8 +1448,8 @@
             "Science-Fiction & Fantasy",
             "Fiction"
         ],
-        "ISBN":"3646624587451",
-        "Pages":275
+        "ISBN":"6840722125159",
+        "Pages":442
     },
     {
         "Text#":97,
@@ -1464,8 +1464,8 @@
             "Science - General",
             "Science-Fiction & Fantasy"
         ],
-        "ISBN":"7830813285219",
-        "Pages":310
+        "ISBN":"5385250903651",
+        "Pages":381
     },
     {
         "Text#":98,
@@ -1481,8 +1481,8 @@
             "Literature",
             "Fiction"
         ],
-        "ISBN":"9628800451654",
-        "Pages":486
+        "ISBN":"2710101235507",
+        "Pages":396
     },
     {
         "Text#":99,
@@ -1499,8 +1499,8 @@
             "Literature",
             "Politics"
         ],
-        "ISBN":"5613928674568",
-        "Pages":164
+        "ISBN":"9281680864739",
+        "Pages":155
     },
     {
         "Text#":100,
@@ -1513,7 +1513,7 @@
             "Literature",
             "Fiction"
         ],
-        "ISBN":"1436983836628",
-        "Pages":494
+        "ISBN":"4116510186978",
+        "Pages":104
     }
 ]
