@@ -285,8 +285,8 @@
         "Text#":17,
         "Title":"The Book of Mormon",
         "Authors":[
-            "Smith, Joseph, Jr.",
-            "Church of Jesus Christ of Latter-day Saints"
+            "Church of Jesus Christ of Latter-day Saints",
+            "Smith, Joseph, Jr."
         ],
         "Genres":[
             "Church of Jesus Christ of Latter-day Saints",
@@ -322,8 +322,8 @@
         "Text#":19,
         "Title":"The Song of Hiawatha",
         "Authors":[
-            "Longfellow, Henry Wadsworth",
-            "Morris, Woodrow W. [Editor]"
+            "Morris, Woodrow W. [Editor]",
+            "Longfellow, Henry Wadsworth"
         ],
         "Genres":[
             "Indians of North America",
@@ -361,8 +361,8 @@
         "Text#":21,
         "Title":"Aesop's Fables\r\nTranslated by George Fyler Townsend",
         "Authors":[
-            "Aesop, 621? BCE-565? BCE",
-            "Townsend, George Fyler [Translator]"
+            "Townsend, George Fyler [Translator]",
+            "Aesop, 621? BCE-565? BCE"
         ],
         "Genres":[
             "Fables, Greek",
@@ -487,8 +487,8 @@
         "Text#":28,
         "Title":"The Fables of Aesop\r\nSelected, Told Anew, and Their History Traced",
         "Authors":[
-            "Aesop, 621? BCE-565? BCE",
-            "Jacobs, Joseph [Editor]"
+            "Jacobs, Joseph [Editor]",
+            "Aesop, 621? BCE-565? BCE"
         ],
         "Genres":[
             "Aesop's fables",
@@ -940,8 +940,8 @@
         "Text#":54,
         "Title":"The Marvelous Land of Oz",
         "Authors":[
-            "Neill, John R. (John Rea) [Illustrator]",
-            "Baum, L. Frank (Lyman Frank)"
+            "Baum, L. Frank (Lyman Frank)",
+            "Neill, John R. (John Rea) [Illustrator]"
         ],
         "Genres":[
             "Oz (Imaginary place)",
@@ -1029,8 +1029,8 @@
         "Text#":59,
         "Title":"Discourse on the Method of Rightly Conducting One's Reason and of Seeking Truth in the Sciences",
         "Authors":[
-            "Descartes, René",
-            "Veitch, John [Translator]"
+            "Veitch, John [Translator]",
+            "Descartes, René"
         ],
         "Genres":[
             "Science",

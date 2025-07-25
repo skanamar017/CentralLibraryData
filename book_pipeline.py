@@ -5,9 +5,9 @@ import time
 
 
 
-df = pd.read_csv('pg_catalog.csv')
+df = pd.read_csv('pg_catalog.csv')# Load the CSV file into a DataFrame
 
-print(df.columns)
+#print(df.columns)
 
 
 
@@ -83,7 +83,7 @@ new_df= df[['Text#', 'Title', 'Authors', 'Genres']].copy()
 
 
 
-print(df.head())
+# print(df.head())
 
 print(new_df.head())
 
@@ -126,6 +126,61 @@ for idx, row in new_df100.iterrows():
 
     
 '''
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+def lookup_openlibrary(title, author):
+    url = f"https://openlibrary.org/search.json?title={title}&author={author}"
+    print(url)
+    response = requests.get(url)
+    if response.status_code == 200:
+        data = response.json()
+        if data['numFound'] > 0:
+            doc = data['docs'][0]
+            isbn = doc['isbn'][0] if 'isbn' in doc else None
+            pages = doc.get('number_of_pages_median')
+            print(f"Found ISBN: {isbn}, Pages: {pages} for Title: {title}, Author: {author}")
+            return isbn, pages
+    return None, None
+
+df100 = df[['Title', 'Authors']].head(100).copy()
+df100['ISBN'] = ''
+df100['Pages'] = ''
+
+for idx, row in df100.iterrows():
+    title = row['Title']
+    author = clean_author(row['Authors'])
+    isbn, pages = lookup_openlibrary(title, author)
+    df100.at[idx, 'ISBN'] = isbn if isbn else ''
+    df100.at[idx, 'Pages'] = pages if pages else ''
+    time.sleep(0.05)
+
+
+
+
+df100.to_csv("pg_catalog_with_isbn_pages.csv", index=False)
+
+
+
+
+
+
+
+
 
 #Save to CSV
 new_df100.to_csv('new_pg_catalog_100.csv', index=False)
