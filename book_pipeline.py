@@ -7,6 +7,8 @@ df = pd.read_csv('pg_catalog.csv')
 
 print(df.columns)
 
+
+
 # Split Subjects and Bookshelves by ';'
 df['Subjects'] = df['Subjects'].str.split(';')
 df['Bookshelves'] = df['Bookshelves'].str.split(';')
@@ -39,6 +41,8 @@ def clean_author(author): # Ensure Author is a string
 
 df['Authors'] = df['Authors'].apply(clean_author)
 
+
+
 # Remove "Browsing: " and extra spaces
 def clean_genres(genres_list): # Ensure Genres is a list
     cleaned = []
@@ -49,40 +53,22 @@ def clean_genres(genres_list): # Ensure Genres is a list
 
 df['Genres'] = df['Genres'].apply(clean_genres) # Ensure Genres is a list
 
+# limit genres to 10
+df['Genres'] = df['Genres'].apply(lambda x: x[:10] if isinstance(x, list) else [])
 
+print("Genres done!")
 
-def lookup_open_library(title, author): # Ensure title and author are strings
-    query = f"{title} {author}"
-    url = "https://openlibrary.org/search.json" # Open Library search API
-    params = {"q": query, "limit": 1} # Limit to 1 result
+new_df= df[['Text#', 'Title', 'Authors', 'Genres']].copy()
 
-    response = requests.get(url, params=params) # Ensure response is valid
-    if response.status_code != 200: # Check if the request was successful
-        return None
+#get ISBN and page count from Open Library based on title and author
 
-    data = response.json() # Parse the JSON response
-    docs = data.get("docs", []) # Get the list of documents
-    if not docs:
-        return None
-
-    top = docs[0] # Get the top result
-    isbn_list = top.get("isbn", []) # Get ISBNs from the top result
-    isbn = isbn_list[0] if isbn_list else None # Use the first ISBN if available
-    pages = top.get("number_of_pages_median", None) # Get the median number of pages
-    return {"isbn": isbn, "pages": pages} # Return a dictionary with ISBN and pages
-
-
-# Add new columns
-df['ISBN'] = None
-df['Pages'] = None
-
-# Look up each row (limit to first few for testing!)
-for idx, row in df.iterrows():
-    result = lookup_open_library(row['Title'], row['Authors'])
-    if result:
-        df.at[idx, 'ISBN'] = result['isbn']
-        df.at[idx, 'Pages'] = result['pages']
+# add ISBN and page count to the dataframe
 
 print(df.head())
 
-df.to_csv('new_pg_catalog.csv', index=False)
+print(new_df.head())
+
+
+#df.to_csv('new_pg_catalog.csv', index=False)
+
+new_df.to_csv('new_pg_catalog.csv', index=False)

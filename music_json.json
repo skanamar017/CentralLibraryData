@@ -1,0 +1,702 @@
+[
+    {
+        "id":0,
+        "artist_name":"mukesh",
+        "track_name":"mohabbat bhi jhoothi",
+        "release_date":1950,
+        "genre":"pop"
+    },
+    {
+        "id":4,
+        "artist_name":"frankie laine",
+        "track_name":"i believe",
+        "release_date":1950,
+        "genre":"pop"
+    },
+    {
+        "id":6,
+        "artist_name":"johnnie ray",
+        "track_name":"cry",
+        "release_date":1950,
+        "genre":"pop"
+    },
+    {
+        "id":10,
+        "artist_name":"pérez prado",
+        "track_name":"patricia",
+        "release_date":1950,
+        "genre":"pop"
+    },
+    {
+        "id":12,
+        "artist_name":"giorgos papadopoulos",
+        "track_name":"apopse eida oneiro",
+        "release_date":1950,
+        "genre":"pop"
+    },
+    {
+        "id":14,
+        "artist_name":"perry como",
+        "track_name":"round and round (with mitchell ayres and his orchestra & the ray charles singers)",
+        "release_date":1950,
+        "genre":"pop"
+    },
+    {
+        "id":15,
+        "artist_name":"freestyle",
+        "track_name":"opm medley: when i met you",
+        "release_date":1950,
+        "genre":"pop"
+    },
+    {
+        "id":17,
+        "artist_name":"johnny mathis",
+        "track_name":"it's not for me to say",
+        "release_date":1950,
+        "genre":"pop"
+    },
+    {
+        "id":20,
+        "artist_name":"stélios kazantzídis",
+        "track_name":"klapse me mana klapse me",
+        "release_date":1950,
+        "genre":"pop"
+    },
+    {
+        "id":23,
+        "artist_name":"stélios kazantzídis",
+        "track_name":"finito la mouzika",
+        "release_date":1950,
+        "genre":"pop"
+    },
+    {
+        "id":28,
+        "artist_name":"liva weel",
+        "track_name":"drømmer man om den, vågner..",
+        "release_date":1951,
+        "genre":"pop"
+    },
+    {
+        "id":32,
+        "artist_name":"the chordettes",
+        "track_name":"carolina moon",
+        "release_date":1951,
+        "genre":"pop"
+    },
+    {
+        "id":33,
+        "artist_name":"frankie laine",
+        "track_name":"necessary evil",
+        "release_date":1951,
+        "genre":"pop"
+    },
+    {
+        "id":34,
+        "artist_name":"ghantasala",
+        "track_name":"kanugona galano",
+        "release_date":1951,
+        "genre":"pop"
+    },
+    {
+        "id":36,
+        "artist_name":"les paul",
+        "track_name":"the carioca",
+        "release_date":1951,
+        "genre":"pop"
+    },
+    {
+        "id":37,
+        "artist_name":"les paul",
+        "track_name":"chicken reel",
+        "release_date":1951,
+        "genre":"pop"
+    },
+    {
+        "id":40,
+        "artist_name":"les paul",
+        "track_name":"blue skies",
+        "release_date":1951,
+        "genre":"pop"
+    },
+    {
+        "id":44,
+        "artist_name":"les paul",
+        "track_name":"dark eyes",
+        "release_date":1951,
+        "genre":"pop"
+    },
+    {
+        "id":53,
+        "artist_name":"asha bhosle",
+        "track_name":"kotha mukunda",
+        "release_date":1952,
+        "genre":"pop"
+    },
+    {
+        "id":54,
+        "artist_name":"asha bhosle",
+        "track_name":"awaz deta hai sola ka din",
+        "release_date":1952,
+        "genre":"pop"
+    },
+    {
+        "id":56,
+        "artist_name":"mohammed rafi",
+        "track_name":"jahan men log sachhe ashikon ko",
+        "release_date":1952,
+        "genre":"pop"
+    },
+    {
+        "id":57,
+        "artist_name":"ghantasala",
+        "track_name":"avanee nee pathi",
+        "release_date":1952,
+        "genre":"pop"
+    },
+    {
+        "id":58,
+        "artist_name":"ghantasala",
+        "track_name":"ee jagamantha natika",
+        "release_date":1952,
+        "genre":"pop"
+    },
+    {
+        "id":62,
+        "artist_name":"les paul",
+        "track_name":"smoke rings",
+        "release_date":1952,
+        "genre":"pop"
+    },
+    {
+        "id":64,
+        "artist_name":"mukesh",
+        "track_name":"hum tujhse mohabbat kar ke",
+        "release_date":1952,
+        "genre":"pop"
+    },
+    {
+        "id":65,
+        "artist_name":"lata mangeshkar",
+        "track_name":"paas nahin aaiye haath na lagaiye",
+        "release_date":1952,
+        "genre":"pop"
+    },
+    {
+        "id":66,
+        "artist_name":"lata mangeshkar",
+        "track_name":"main na janoon",
+        "release_date":1952,
+        "genre":"pop"
+    },
+    {
+        "id":68,
+        "artist_name":"asha bhosle",
+        "track_name":"gullyachi shapath",
+        "release_date":1952,
+        "genre":"pop"
+    },
+    {
+        "id":70,
+        "artist_name":"lata mangeshkar",
+        "track_name":"judai ki khabar hoti agar",
+        "release_date":1952,
+        "genre":"pop"
+    },
+    {
+        "id":73,
+        "artist_name":"lata mangeshkar",
+        "track_name":"maagata maagata janm gele",
+        "release_date":1953,
+        "genre":"pop"
+    },
+    {
+        "id":74,
+        "artist_name":"lata mangeshkar",
+        "track_name":"chupke chupke (from ''paying guest'')",
+        "release_date":1953,
+        "genre":"pop"
+    },
+    {
+        "id":75,
+        "artist_name":"asha bhosle",
+        "track_name":"chahe kitna mujhe tum bulao ji",
+        "release_date":1953,
+        "genre":"pop"
+    },
+    {
+        "id":77,
+        "artist_name":"asha bhosle",
+        "track_name":"tu bol na bol",
+        "release_date":1953,
+        "genre":"pop"
+    },
+    {
+        "id":80,
+        "artist_name":"mukesh",
+        "track_name":"raat andheri door savera",
+        "release_date":1953,
+        "genre":"pop"
+    },
+    {
+        "id":84,
+        "artist_name":"ghantasala",
+        "track_name":"thunintha pin",
+        "release_date":1953,
+        "genre":"pop"
+    },
+    {
+        "id":86,
+        "artist_name":"les paul",
+        "track_name":"i'm sitting on top of the world",
+        "release_date":1953,
+        "genre":"pop"
+    },
+    {
+        "id":90,
+        "artist_name":"les paul",
+        "track_name":"the world is waiting for the sunrise",
+        "release_date":1953,
+        "genre":"pop"
+    },
+    {
+        "id":99,
+        "artist_name":"t. m. soundararajan",
+        "track_name":"ethanai periya",
+        "release_date":1953,
+        "genre":"pop"
+    },
+    {
+        "id":100,
+        "artist_name":"talat mahmood",
+        "track_name":"ansoo to nahin hai ankhon men",
+        "release_date":1953,
+        "genre":"pop"
+    },
+    {
+        "id":101,
+        "artist_name":"andy williams",
+        "track_name":"it's the most wonderful time of the year",
+        "release_date":1953,
+        "genre":"pop"
+    },
+    {
+        "id":102,
+        "artist_name":"lata mangeshkar",
+        "track_name":"chandan ka palna resham ko dori",
+        "release_date":1954,
+        "genre":"pop"
+    },
+    {
+        "id":106,
+        "artist_name":"lata mangeshkar",
+        "track_name":"le chal ri nindiya le chal hamen",
+        "release_date":1954,
+        "genre":"pop"
+    },
+    {
+        "id":110,
+        "artist_name":"frankie laine",
+        "track_name":"after you've gone",
+        "release_date":1954,
+        "genre":"pop"
+    },
+    {
+        "id":115,
+        "artist_name":"asha bhosle",
+        "track_name":"mere hamsafar tujhe kya khabar",
+        "release_date":1954,
+        "genre":"pop"
+    },
+    {
+        "id":118,
+        "artist_name":"sven-bertil taube",
+        "track_name":"viljen i veta (would you like to know?)",
+        "release_date":1954,
+        "genre":"pop"
+    },
+    {
+        "id":125,
+        "artist_name":"bobby vinton",
+        "track_name":"blue velvet",
+        "release_date":1954,
+        "genre":"pop"
+    },
+    {
+        "id":126,
+        "artist_name":"los hermanos arriagada",
+        "track_name":"poema",
+        "release_date":1954,
+        "genre":"pop"
+    },
+    {
+        "id":127,
+        "artist_name":"the drifters",
+        "track_name":"the bells of st. mary's",
+        "release_date":1954,
+        "genre":"pop"
+    },
+    {
+        "id":128,
+        "artist_name":"the chordettes",
+        "track_name":"for me and my gal",
+        "release_date":1954,
+        "genre":"pop"
+    },
+    {
+        "id":130,
+        "artist_name":"harry belafonte",
+        "track_name":"mark twain",
+        "release_date":1954,
+        "genre":"pop"
+    },
+    {
+        "id":133,
+        "artist_name":"harry belafonte",
+        "track_name":"the next big river",
+        "release_date":1954,
+        "genre":"pop"
+    },
+    {
+        "id":135,
+        "artist_name":"lata mangeshkar",
+        "track_name":"sitaron ki mehfil saji",
+        "release_date":1954,
+        "genre":"pop"
+    },
+    {
+        "id":138,
+        "artist_name":"a. m. rajah",
+        "track_name":"gopiparivrito",
+        "release_date":1954,
+        "genre":"pop"
+    },
+    {
+        "id":140,
+        "artist_name":"jonah jones",
+        "track_name":"you're the cream in my coffee",
+        "release_date":1954,
+        "genre":"pop"
+    },
+    {
+        "id":148,
+        "artist_name":"lata mangeshkar",
+        "track_name":"kabhi khamosh rahte hain",
+        "release_date":1955,
+        "genre":"pop"
+    },
+    {
+        "id":149,
+        "artist_name":"mohammed rafi",
+        "track_name":"khanke to khanke",
+        "release_date":1955,
+        "genre":"pop"
+    },
+    {
+        "id":161,
+        "artist_name":"johnnie ray",
+        "track_name":"here am i",
+        "release_date":1955,
+        "genre":"pop"
+    },
+    {
+        "id":164,
+        "artist_name":"les paul",
+        "track_name":"brazil",
+        "release_date":1955,
+        "genre":"pop"
+    },
+    {
+        "id":167,
+        "artist_name":"les paul",
+        "track_name":"baby, won't you please come home",
+        "release_date":1955,
+        "genre":"pop"
+    },
+    {
+        "id":168,
+        "artist_name":"frankie laine",
+        "track_name":"jezebel",
+        "release_date":1955,
+        "genre":"pop"
+    },
+    {
+        "id":169,
+        "artist_name":"bill haley & his comets",
+        "track_name":"two hound dogs",
+        "release_date":1955,
+        "genre":"pop"
+    },
+    {
+        "id":181,
+        "artist_name":"les paul",
+        "track_name":"sleep",
+        "release_date":1955,
+        "genre":"pop"
+    },
+    {
+        "id":183,
+        "artist_name":"lata mangeshkar",
+        "track_name":"mera dil yeh pukare aaja",
+        "release_date":1955,
+        "genre":"pop"
+    },
+    {
+        "id":185,
+        "artist_name":"ted heath",
+        "track_name":"to you my love",
+        "release_date":1955,
+        "genre":"pop"
+    },
+    {
+        "id":191,
+        "artist_name":"ted heath",
+        "track_name":"believe in me",
+        "release_date":1956,
+        "genre":"pop"
+    },
+    {
+        "id":192,
+        "artist_name":"ted heath",
+        "track_name":"take the “a” train",
+        "release_date":1956,
+        "genre":"pop"
+    },
+    {
+        "id":199,
+        "artist_name":"lata mangeshkar",
+        "track_name":"pahuni raghunandan savala",
+        "release_date":1956,
+        "genre":"pop"
+    },
+    {
+        "id":201,
+        "artist_name":"bill haley & his comets",
+        "track_name":"come rock with me",
+        "release_date":1956,
+        "genre":"pop"
+    },
+    {
+        "id":202,
+        "artist_name":"lata mangeshkar",
+        "track_name":"antar mantar jantar",
+        "release_date":1956,
+        "genre":"pop"
+    },
+    {
+        "id":204,
+        "artist_name":"lata mangeshkar",
+        "track_name":"kahan se yeh sholon ka toofan aaya",
+        "release_date":1956,
+        "genre":"pop"
+    },
+    {
+        "id":206,
+        "artist_name":"the platters",
+        "track_name":"temptation",
+        "release_date":1956,
+        "genre":"pop"
+    },
+    {
+        "id":210,
+        "artist_name":"harry belafonte",
+        "track_name":"unchained melody",
+        "release_date":1956,
+        "genre":"pop"
+    },
+    {
+        "id":217,
+        "artist_name":"the platters",
+        "track_name":"on my word of honor",
+        "release_date":1956,
+        "genre":"pop"
+    },
+    {
+        "id":219,
+        "artist_name":"pete yorn",
+        "track_name":"just my imagination (running away with me)",
+        "release_date":1956,
+        "genre":"pop"
+    },
+    {
+        "id":221,
+        "artist_name":"the clovers",
+        "track_name":"don't you know i love you",
+        "release_date":1956,
+        "genre":"pop"
+    },
+    {
+        "id":224,
+        "artist_name":"johnny mathis",
+        "track_name":"love, your magic spell is everywhere",
+        "release_date":1956,
+        "genre":"pop"
+    },
+    {
+        "id":229,
+        "artist_name":"the platters",
+        "track_name":"heart of stone",
+        "release_date":1956,
+        "genre":"pop"
+    },
+    {
+        "id":235,
+        "artist_name":"the platters",
+        "track_name":"have mercy",
+        "release_date":1956,
+        "genre":"pop"
+    },
+    {
+        "id":239,
+        "artist_name":"the platters",
+        "track_name":"you've changed",
+        "release_date":1956,
+        "genre":"pop"
+    },
+    {
+        "id":244,
+        "artist_name":"harry belafonte",
+        "track_name":"i do adore her",
+        "release_date":1956,
+        "genre":"pop"
+    },
+    {
+        "id":245,
+        "artist_name":"jerry vale",
+        "track_name":"ciao, ciao, bambina",
+        "release_date":1956,
+        "genre":"pop"
+    },
+    {
+        "id":246,
+        "artist_name":"jerry vale",
+        "track_name":"non dimenticar",
+        "release_date":1956,
+        "genre":"pop"
+    },
+    {
+        "id":248,
+        "artist_name":"jerry vale",
+        "track_name":"al di la",
+        "release_date":1956,
+        "genre":"pop"
+    },
+    {
+        "id":249,
+        "artist_name":"harry belafonte",
+        "track_name":"matilda",
+        "release_date":1956,
+        "genre":"pop"
+    },
+    {
+        "id":250,
+        "artist_name":"the clovers",
+        "track_name":"devil or angel",
+        "release_date":1956,
+        "genre":"pop"
+    },
+    {
+        "id":258,
+        "artist_name":"harry belafonte",
+        "track_name":"hosanna",
+        "release_date":1956,
+        "genre":"pop"
+    },
+    {
+        "id":259,
+        "artist_name":"jerry vale",
+        "track_name":"volare (nel blu dipinto di blu)",
+        "release_date":1956,
+        "genre":"pop"
+    },
+    {
+        "id":261,
+        "artist_name":"the platters",
+        "track_name":"why should i",
+        "release_date":1956,
+        "genre":"pop"
+    },
+    {
+        "id":262,
+        "artist_name":"johnny mathis",
+        "track_name":"in other words (fly me to the moon)",
+        "release_date":1956,
+        "genre":"pop"
+    },
+    {
+        "id":263,
+        "artist_name":"lavern baker",
+        "track_name":"i'll never be free",
+        "release_date":1956,
+        "genre":"pop"
+    },
+    {
+        "id":265,
+        "artist_name":"the platters",
+        "track_name":"remember when",
+        "release_date":1956,
+        "genre":"pop"
+    },
+    {
+        "id":268,
+        "artist_name":"the clovers",
+        "track_name":"love love love",
+        "release_date":1956,
+        "genre":"pop"
+    },
+    {
+        "id":270,
+        "artist_name":"johnny mathis",
+        "track_name":"it might as well be spring",
+        "release_date":1956,
+        "genre":"pop"
+    },
+    {
+        "id":271,
+        "artist_name":"the platters",
+        "track_name":"at your beck and call",
+        "release_date":1956,
+        "genre":"pop"
+    },
+    {
+        "id":273,
+        "artist_name":"the platters",
+        "track_name":"september in the rain",
+        "release_date":1956,
+        "genre":"pop"
+    },
+    {
+        "id":274,
+        "artist_name":"the platters",
+        "track_name":"i give you my word",
+        "release_date":1956,
+        "genre":"pop"
+    },
+    {
+        "id":275,
+        "artist_name":"jerry vale",
+        "track_name":"more",
+        "release_date":1956,
+        "genre":"pop"
+    },
+    {
+        "id":276,
+        "artist_name":"jerry vale",
+        "track_name":"summertime in venice",
+        "release_date":1956,
+        "genre":"pop"
+    },
+    {
+        "id":283,
+        "artist_name":"the clovers",
+        "track_name":"here goes a fool",
+        "release_date":1956,
+        "genre":"pop"
+    },
+    {
+        "id":284,
+        "artist_name":"t. m. soundararajan",
+        "track_name":"chinna kelbyaadve nanna ppuraana",
+        "release_date":1956,
+        "genre":"pop"
+    }
+]
