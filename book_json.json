@@ -2,7 +2,9 @@
     {
         "Text#":1,
         "Title":"The Declaration of Independence of the United States of America",
-        "Authors":"Jefferson, Thomas, 1743-1826",
+        "Authors":[
+            "Jefferson, Thomas"
+        ],
         "Genres":[
             "United States",
             "History",
@@ -19,7 +21,9 @@
     {
         "Text#":2,
         "Title":"The United States Bill of Rights\r\nThe Ten Original Amendments to the Constitution of the United States",
-        "Authors":"United States",
+        "Authors":[
+            "United States"
+        ],
         "Genres":[
             "Civil rights",
             "United States",
@@ -36,7 +40,9 @@
     {
         "Text#":3,
         "Title":"John F. Kennedy's Inaugural Address",
-        "Authors":"Kennedy, John F. (John Fitzgerald), 1917-1963",
+        "Authors":[
+            "Kennedy, John F. (John Fitzgerald)"
+        ],
         "Genres":[
             "United States",
             "Foreign relations",
@@ -51,7 +57,9 @@
     {
         "Text#":4,
         "Title":"Lincoln's Gettysburg Address\r\nGiven November 19, 1863 on the battlefield near Gettysburg, Pennsylvania, USA",
-        "Authors":"Lincoln, Abraham, 1809-1865",
+        "Authors":[
+            "Lincoln, Abraham"
+        ],
         "Genres":[
             "Consecration of cemeteries",
             "Pennsylvania",
@@ -66,7 +74,9 @@
     {
         "Text#":5,
         "Title":"The United States Constitution",
-        "Authors":"United States",
+        "Authors":[
+            "United States"
+        ],
         "Genres":[
             "United States",
             "Politics and government",
@@ -83,7 +93,9 @@
     {
         "Text#":6,
         "Title":"Give Me Liberty or Give Me Death",
-        "Authors":"Henry, Patrick, 1736-1799",
+        "Authors":[
+            "Henry, Patrick"
+        ],
         "Genres":[
             "Speeches, addresses, etc., American",
             "United States",
@@ -100,7 +112,9 @@
     {
         "Text#":7,
         "Title":"The Mayflower Compact",
-        "Authors":null,
+        "Authors":[
+
+        ],
         "Genres":[
             "Massachusetts",
             "History",
@@ -114,7 +128,9 @@
     {
         "Text#":8,
         "Title":"Abraham Lincoln's Second Inaugural Address",
-        "Authors":"Lincoln, Abraham, 1809-1865",
+        "Authors":[
+            "Lincoln, Abraham"
+        ],
         "Genres":[
             "United States",
             "Politics and government",
@@ -130,7 +146,9 @@
     {
         "Text#":9,
         "Title":"Abraham Lincoln's First Inaugural Address",
-        "Authors":"Lincoln, Abraham, 1809-1865",
+        "Authors":[
+            "Lincoln, Abraham"
+        ],
         "Genres":[
             "United States",
             "Politics and government",
@@ -146,7 +164,9 @@
     {
         "Text#":10,
         "Title":"The King James Version of the Bible",
-        "Authors":null,
+        "Authors":[
+
+        ],
         "Genres":[
             "Bible",
             "Banned Books List from the American Library Association",
@@ -157,7 +177,9 @@
     {
         "Text#":11,
         "Title":"Alice's Adventures in Wonderland",
-        "Authors":"Carroll, Lewis, 1832-1898",
+        "Authors":[
+            "Carroll, Lewis"
+        ],
         "Genres":[
             "Fantasy fiction",
             "Children's stories",
@@ -173,7 +195,9 @@
     {
         "Text#":12,
         "Title":"Through the Looking-Glass",
-        "Authors":"Carroll, Lewis, 1832-1898",
+        "Authors":[
+            "Carroll, Lewis"
+        ],
         "Genres":[
             "Fantasy fiction",
             "Children's stories",
@@ -190,7 +214,9 @@
     {
         "Text#":13,
         "Title":"The Hunting of the Snark: An Agony in Eight Fits",
-        "Authors":"Carroll, Lewis, 1832-1898",
+        "Authors":[
+            "Carroll, Lewis"
+        ],
         "Genres":[
             "Nonsense verses, English",
             "Children's Literature",
@@ -201,7 +227,9 @@
     {
         "Text#":14,
         "Title":"The 1990 CIA World Factbook",
-        "Authors":"United States. Central Intelligence Agency",
+        "Authors":[
+            "United States. Central Intelligence Agency"
+        ],
         "Genres":[
             "World politics",
             "Handbooks, manuals, etc.",
@@ -218,7 +246,9 @@
     {
         "Text#":15,
         "Title":"Moby-Dick; or, The Whale",
-        "Authors":"Melville, Herman, 1819-1891",
+        "Authors":[
+            "Melville, Herman"
+        ],
         "Genres":[
             "Whaling",
             "Fiction",
@@ -235,7 +265,9 @@
     {
         "Text#":16,
         "Title":"Peter Pan",
-        "Authors":"Barrie, J. M. (James Matthew), 1860-1937",
+        "Authors":[
+            "Barrie, J. M. (James Matthew)"
+        ],
         "Genres":[
             "Fantasy literature",
             "Peter Pan (Fictitious character)",
@@ -252,7 +284,10 @@
     {
         "Text#":17,
         "Title":"The Book of Mormon",
-        "Authors":"Smith, Joseph, Jr., 1805-1844; Church of Jesus Christ of Latter-day Saints",
+        "Authors":[
+            "Smith, Joseph, Jr.",
+            "Church of Jesus Christ of Latter-day Saints"
+        ],
         "Genres":[
             "Church of Jesus Christ of Latter-day Saints",
             "Sacred books",
@@ -267,7 +302,11 @@
     {
         "Text#":18,
         "Title":"The Federalist Papers",
-        "Authors":"Hamilton, Alexander, 1757-1804; Jay, John, 1745-1829; Madison, James, 1751-1836",
+        "Authors":[
+            "Hamilton, Alexander",
+            "Jay, John",
+            "Madison, James"
+        ],
         "Genres":[
             "Constitutional history",
             "United States",
@@ -282,7 +321,10 @@
     {
         "Text#":19,
         "Title":"The Song of Hiawatha",
-        "Authors":"Longfellow, Henry Wadsworth, 1807-1882; Morris, Woodrow W. [Editor]",
+        "Authors":[
+            "Longfellow, Henry Wadsworth",
+            "Morris, Woodrow W. [Editor]"
+        ],
         "Genres":[
             "Indians of North America",
             "Poetry",
@@ -299,7 +341,9 @@
     {
         "Text#":20,
         "Title":"Paradise Lost",
-        "Authors":"Milton, John, 1608-1674",
+        "Authors":[
+            "Milton, John"
+        ],
         "Genres":[
             "Fall of man",
             "Poetry",
@@ -316,7 +360,10 @@
     {
         "Text#":21,
         "Title":"Aesop's Fables\r\nTranslated by George Fyler Townsend",
-        "Authors":"Aesop, 621? BCE-565? BCE; Townsend, George Fyler, 1814-1900 [Translator]",
+        "Authors":[
+            "Aesop, 621? BCE-565? BCE",
+            "Townsend, George Fyler [Translator]"
+        ],
         "Genres":[
             "Fables, Greek",
             "Translations into English",
@@ -329,7 +376,9 @@
     {
         "Text#":22,
         "Title":"Roget's Thesaurus",
-        "Authors":"Roget, Peter Mark, 1779-1869",
+        "Authors":[
+            "Roget, Peter Mark"
+        ],
         "Genres":[
             "English language",
             "Synonyms and antonyms",
@@ -342,7 +391,9 @@
     {
         "Text#":23,
         "Title":"Narrative of the Life of Frederick Douglass, an American Slave",
-        "Authors":"Douglass, Frederick, 1818-1895",
+        "Authors":[
+            "Douglass, Frederick"
+        ],
         "Genres":[
             "Douglass, Frederick, 1818-1895",
             "African American abolitionists",
@@ -359,7 +410,9 @@
     {
         "Text#":24,
         "Title":"O Pioneers!",
-        "Authors":"Cather, Willa, 1873-1947",
+        "Authors":[
+            "Cather, Willa"
+        ],
         "Genres":[
             "Nebraska",
             "Fiction",
@@ -376,7 +429,9 @@
     {
         "Text#":25,
         "Title":"The 1991 CIA World Factbook",
-        "Authors":"United States. Central Intelligence Agency",
+        "Authors":[
+            "United States. Central Intelligence Agency"
+        ],
         "Genres":[
             "World politics",
             "Handbooks, manuals, etc.",
@@ -393,7 +448,9 @@
     {
         "Text#":26,
         "Title":"Paradise Lost",
-        "Authors":"Milton, John, 1608-1674",
+        "Authors":[
+            "Milton, John"
+        ],
         "Genres":[
             "Fall of man",
             "Poetry",
@@ -410,7 +467,9 @@
     {
         "Text#":27,
         "Title":"Far from the Madding Crowd",
-        "Authors":"Hardy, Thomas, 1840-1928",
+        "Authors":[
+            "Hardy, Thomas"
+        ],
         "Genres":[
             "Didactic fiction",
             "Love stories",
@@ -427,7 +486,10 @@
     {
         "Text#":28,
         "Title":"The Fables of Aesop\r\nSelected, Told Anew, and Their History Traced",
-        "Authors":"Aesop, 621? BCE-565? BCE; Jacobs, Joseph, 1854-1916 [Editor]",
+        "Authors":[
+            "Aesop, 621? BCE-565? BCE",
+            "Jacobs, Joseph [Editor]"
+        ],
         "Genres":[
             "Aesop's fables",
             "Adaptations",
@@ -441,7 +503,9 @@
     {
         "Text#":29,
         "Title":"The 1990 United States Census",
-        "Authors":"United States. Bureau of the Census",
+        "Authors":[
+            "United States. Bureau of the Census"
+        ],
         "Genres":[
             "United States",
             "Population",
@@ -458,7 +522,9 @@
     {
         "Text#":30,
         "Title":"The Bible, King James Version, Complete",
-        "Authors":null,
+        "Authors":[
+
+        ],
         "Genres":[
             "Bible",
             "Philosophy & Ethics",
@@ -468,7 +534,10 @@
     {
         "Text#":31,
         "Title":"Plays of Sophocles: Oedipus the King; Oedipus at Colonus; Antigone",
-        "Authors":"Sophocles, 496? BCE-407 BCE; Storr, Francis, 1839-1919 [Translator]",
+        "Authors":[
+            "Storr, Francis [Translator]",
+            "Sophocles, 496? BCE-407 BCE"
+        ],
         "Genres":[
             "Tragedies (Drama)",
             "Antigone (Mythological character)",
@@ -485,7 +554,9 @@
     {
         "Text#":32,
         "Title":"Herland",
-        "Authors":"Gilman, Charlotte Perkins, 1860-1935",
+        "Authors":[
+            "Gilman, Charlotte Perkins"
+        ],
         "Genres":[
             "Utopias",
             "Fiction",
@@ -502,7 +573,9 @@
     {
         "Text#":33,
         "Title":"The Scarlet Letter",
-        "Authors":"Hawthorne, Nathaniel, 1804-1864",
+        "Authors":[
+            "Hawthorne, Nathaniel"
+        ],
         "Genres":[
             "Adultery",
             "Fiction",
@@ -519,7 +592,9 @@
     {
         "Text#":34,
         "Title":"Zen and the Art of the Internet",
-        "Authors":"Kehoe, Brendan P., 1970-2011",
+        "Authors":[
+            "Kehoe, Brendan P."
+        ],
         "Genres":[
             "Internet",
             "Computer networks",
@@ -531,7 +606,9 @@
     {
         "Text#":35,
         "Title":"The Time Machine",
-        "Authors":"Wells, H. G. (Herbert George), 1866-1946",
+        "Authors":[
+            "Wells, H. G. (Herbert George)"
+        ],
         "Genres":[
             "Science fiction",
             "Time travel",
@@ -548,7 +625,9 @@
     {
         "Text#":36,
         "Title":"The War of the Worlds",
-        "Authors":"Wells, H. G. (Herbert George), 1866-1946",
+        "Authors":[
+            "Wells, H. G. (Herbert George)"
+        ],
         "Genres":[
             "Science fiction",
             "War stories",
@@ -565,7 +644,9 @@
     {
         "Text#":37,
         "Title":"The 1990 United States Census [2nd]",
-        "Authors":"United States. Bureau of the Census",
+        "Authors":[
+            "United States. Bureau of the Census"
+        ],
         "Genres":[
             "United States",
             "Population",
@@ -582,7 +663,10 @@
     {
         "Text#":38,
         "Title":"The Jargon File, Version 2.9.10, 01 Jul 1992",
-        "Authors":"Raymond, Eric S., 1957- [Editor]; Steele, Guy L., 1954- [Editor]",
+        "Authors":[
+            "Steele, Guy L. [Editor]",
+            "Raymond, Eric S. [Editor]"
+        ],
         "Genres":[
             "Electronic data processing",
             "Terminology",
@@ -599,7 +683,9 @@
     {
         "Text#":39,
         "Title":"Hitchhiker's Guide to the Internet",
-        "Authors":"Krol, Ed, 1951-",
+        "Authors":[
+            "Krol, Ed"
+        ],
         "Genres":[
             "Internet",
             "Computer networks",
@@ -609,7 +695,9 @@
     {
         "Text#":40,
         "Title":"NorthWestNet User Services Internet Resource Guide (NUSIRG)",
-        "Authors":"Kochmer, Jonathan",
+        "Authors":[
+            "Kochmer, Jonathan"
+        ],
         "Genres":[
             "Internet",
             "Computers & Technology"
@@ -618,7 +706,9 @@
     {
         "Text#":41,
         "Title":"The Legend of Sleepy Hollow",
-        "Authors":"Irving, Washington, 1783-1859",
+        "Authors":[
+            "Irving, Washington"
+        ],
         "Genres":[
             "Ghosts",
             "Fiction",
@@ -635,7 +725,9 @@
     {
         "Text#":42,
         "Title":"The Strange Case of Dr. Jekyll and Mr. Hyde",
-        "Authors":"Stevenson, Robert Louis, 1850-1894",
+        "Authors":[
+            "Stevenson, Robert Louis"
+        ],
         "Genres":[
             "Science fiction",
             "Horror tales",
@@ -652,7 +744,9 @@
     {
         "Text#":43,
         "Title":"The Strange Case of Dr. Jekyll and Mr. Hyde",
-        "Authors":"Stevenson, Robert Louis, 1850-1894",
+        "Authors":[
+            "Stevenson, Robert Louis"
+        ],
         "Genres":[
             "Science fiction",
             "Horror tales",
@@ -669,7 +763,9 @@
     {
         "Text#":44,
         "Title":"The Song of the Lark",
-        "Authors":"Cather, Willa, 1873-1947",
+        "Authors":[
+            "Cather, Willa"
+        ],
         "Genres":[
             "Musical fiction",
             "Young women",
@@ -686,7 +782,9 @@
     {
         "Text#":45,
         "Title":"Anne of Green Gables",
-        "Authors":"Montgomery, L. M. (Lucy Maud), 1874-1942",
+        "Authors":[
+            "Montgomery, L. M. (Lucy Maud)"
+        ],
         "Genres":[
             "Orphans",
             "Fiction",
@@ -703,7 +801,10 @@
     {
         "Text#":46,
         "Title":"A Christmas Carol in Prose; Being a Ghost Story of Christmas",
-        "Authors":"Dickens, Charles, 1812-1870; Leech, John, 1817-1864 [Illustrator]",
+        "Authors":[
+            "Dickens, Charles",
+            "Leech, John [Illustrator]"
+        ],
         "Genres":[
             "Christmas stories",
             "London (England)",
@@ -720,7 +821,9 @@
     {
         "Text#":47,
         "Title":"Anne of Avonlea",
-        "Authors":"Montgomery, L. M. (Lucy Maud), 1874-1942",
+        "Authors":[
+            "Montgomery, L. M. (Lucy Maud)"
+        ],
         "Genres":[
             "Orphans",
             "Fiction",
@@ -737,7 +840,9 @@
     {
         "Text#":48,
         "Title":"The 1992 CIA World Factbook",
-        "Authors":"United States. Central Intelligence Agency",
+        "Authors":[
+            "United States. Central Intelligence Agency"
+        ],
         "Genres":[
             "World politics",
             "Handbooks, manuals, etc.",
@@ -754,7 +859,9 @@
     {
         "Text#":49,
         "Title":"Surfing the Internet: An Introduction\r\nVersion 2.0.2",
-        "Authors":"Polly, Jean Armour",
+        "Authors":[
+            "Polly, Jean Armour"
+        ],
         "Genres":[
             "Internet addresses",
             "Directories",
@@ -768,7 +875,9 @@
     {
         "Text#":50,
         "Title":"Pi",
-        "Authors":"Hemphill, Scott",
+        "Authors":[
+            "Hemphill, Scott"
+        ],
         "Genres":[
             "Mathematics",
             "Pi",
@@ -780,7 +889,9 @@
     {
         "Text#":51,
         "Title":"Anne of the Island",
-        "Authors":"Montgomery, L. M. (Lucy Maud), 1874-1942",
+        "Authors":[
+            "Montgomery, L. M. (Lucy Maud)"
+        ],
         "Genres":[
             "Orphans",
             "Fiction",
@@ -797,7 +908,9 @@
     {
         "Text#":52,
         "Title":"The Square Root of 2",
-        "Authors":"Kerr, Stan",
+        "Authors":[
+            "Kerr, Stan"
+        ],
         "Genres":[
             "Mathematics",
             "Square root",
@@ -809,7 +922,10 @@
     {
         "Text#":53,
         "Title":"Workshop on Electronic Texts: Proceedings, 9-10 June 1992",
-        "Authors":"Library of Congress; Daly, James, 1948- [Editor]",
+        "Authors":[
+            "Library of Congress",
+            "Daly, James [Editor]"
+        ],
         "Genres":[
             "Text processing (Computer science)",
             "Congresses",
@@ -823,7 +939,10 @@
     {
         "Text#":54,
         "Title":"The Marvelous Land of Oz",
-        "Authors":"Baum, L. Frank (Lyman Frank), 1856-1919; Neill, John R. (John Rea), 1877-1943 [Illustrator]",
+        "Authors":[
+            "Neill, John R. (John Rea) [Illustrator]",
+            "Baum, L. Frank (Lyman Frank)"
+        ],
         "Genres":[
             "Oz (Imaginary place)",
             "Juvenile fiction",
@@ -840,7 +959,9 @@
     {
         "Text#":55,
         "Title":"The Wonderful Wizard of Oz",
-        "Authors":"Baum, L. Frank (Lyman Frank), 1856-1919",
+        "Authors":[
+            "Baum, L. Frank (Lyman Frank)"
+        ],
         "Genres":[
             "Oz (Imaginary place)",
             "Juvenile fiction",
@@ -857,7 +978,9 @@
     {
         "Text#":56,
         "Title":"NREN for All: Insurmountable Opportunity",
-        "Authors":"Polly, Jean Armour",
+        "Authors":[
+            "Polly, Jean Armour"
+        ],
         "Genres":[
             "Internet",
             "National Research and Education Network (Computer network)",
@@ -868,7 +991,9 @@
     {
         "Text#":57,
         "Title":"Aladdin and the Magic Lamp",
-        "Authors":"Unknown",
+        "Authors":[
+            "Unknown"
+        ],
         "Genres":[
             "Fairy tales",
             "Children's stories",
@@ -884,7 +1009,9 @@
     {
         "Text#":58,
         "Title":"Paradise Regained",
-        "Authors":"Milton, John, 1608-1674",
+        "Authors":[
+            "Milton, John"
+        ],
         "Genres":[
             "English poetry",
             "Epic poetry",
@@ -901,7 +1028,10 @@
     {
         "Text#":59,
         "Title":"Discourse on the Method of Rightly Conducting One's Reason and of Seeking Truth in the Sciences",
-        "Authors":"Descartes, René, 1596-1650; Veitch, John, 1829-1894 [Translator]",
+        "Authors":[
+            "Descartes, René",
+            "Veitch, John [Translator]"
+        ],
         "Genres":[
             "Science",
             "Methodology",
@@ -916,7 +1046,9 @@
     {
         "Text#":60,
         "Title":"The Scarlet Pimpernel",
-        "Authors":"Orczy, Emmuska Orczy, Baroness, 1865-1947",
+        "Authors":[
+            "Orczy, Emmuska Orczy, Baroness"
+        ],
         "Genres":[
             "Historical fiction",
             "France",
@@ -933,7 +1065,10 @@
     {
         "Text#":61,
         "Title":"The Communist Manifesto",
-        "Authors":"Marx, Karl, 1818-1883; Engels, Friedrich, 1820-1895",
+        "Authors":[
+            "Marx, Karl",
+            "Engels, Friedrich"
+        ],
         "Genres":[
             "Socialism",
             "Communism",
@@ -948,7 +1083,9 @@
     {
         "Text#":62,
         "Title":"A Princess of Mars",
-        "Authors":"Burroughs, Edgar Rice, 1875-1950",
+        "Authors":[
+            "Burroughs, Edgar Rice"
+        ],
         "Genres":[
             "Science fiction",
             "Mars (Planet)",
@@ -965,7 +1102,9 @@
     {
         "Text#":63,
         "Title":"The Number \"e\"",
-        "Authors":"Unknown",
+        "Authors":[
+            "Unknown"
+        ],
         "Genres":[
             "Mathematics",
             "Mathematical constants",
@@ -977,7 +1116,9 @@
     {
         "Text#":64,
         "Title":"The Gods of Mars",
-        "Authors":"Burroughs, Edgar Rice, 1875-1950",
+        "Authors":[
+            "Burroughs, Edgar Rice"
+        ],
         "Genres":[
             "Science fiction",
             "Mars (Planet)",
@@ -994,7 +1135,9 @@
     {
         "Text#":65,
         "Title":"The First 100,000 Prime Numbers",
-        "Authors":"Unknown",
+        "Authors":[
+            "Unknown"
+        ],
         "Genres":[
             "Mathematics",
             "Numbers, Prime",
@@ -1005,7 +1148,9 @@
     {
         "Text#":66,
         "Title":"The Dawn of Amateur Radio in the U.K. and Greece: A Personal View",
-        "Authors":"Joly, Norman F.",
+        "Authors":[
+            "Joly, Norman F."
+        ],
         "Genres":[
             "Radio broadcasting",
             "Computers & Technology"
@@ -1014,7 +1159,9 @@
     {
         "Text#":67,
         "Title":"The Black Experience in America",
-        "Authors":"Coombs, Norman, 1932-",
+        "Authors":[
+            "Coombs, Norman"
+        ],
         "Genres":[
             "African Americans",
             "History",
@@ -1028,7 +1175,9 @@
     {
         "Text#":68,
         "Title":"The warlord of Mars",
-        "Authors":"Burroughs, Edgar Rice, 1875-1950",
+        "Authors":[
+            "Burroughs, Edgar Rice"
+        ],
         "Genres":[
             "Science fiction",
             "Mars (Planet)",
@@ -1045,7 +1194,9 @@
     {
         "Text#":69,
         "Title":"The 32nd Mersenne Prime\nPredicted by Mersenne",
-        "Authors":"Slowinski, David",
+        "Authors":[
+            "Slowinski, David"
+        ],
         "Genres":[
             "Numbers, Prime",
             "Number theory",
@@ -1057,7 +1208,9 @@
     {
         "Text#":70,
         "Title":"What Is Man? and Other Essays",
-        "Authors":"Twain, Mark, 1835-1910",
+        "Authors":[
+            "Twain, Mark"
+        ],
         "Genres":[
             "American essays",
             "History - American",
@@ -1067,7 +1220,9 @@
     {
         "Text#":71,
         "Title":"On the Duty of Civil Disobedience",
-        "Authors":"Thoreau, Henry David, 1817-1862",
+        "Authors":[
+            "Thoreau, Henry David"
+        ],
         "Genres":[
             "Civil disobedience",
             "Government, Resistance to",
@@ -1079,7 +1234,9 @@
     {
         "Text#":72,
         "Title":"Thuvia, Maid of Mars",
-        "Authors":"Burroughs, Edgar Rice, 1875-1950",
+        "Authors":[
+            "Burroughs, Edgar Rice"
+        ],
         "Genres":[
             "Science fiction",
             "Martians",
@@ -1095,7 +1252,9 @@
     {
         "Text#":73,
         "Title":"The Red Badge of Courage: An Episode of the American Civil War",
-        "Authors":"Crane, Stephen, 1871-1900",
+        "Authors":[
+            "Crane, Stephen"
+        ],
         "Genres":[
             "Historical fiction",
             "War stories",
@@ -1112,7 +1271,9 @@
     {
         "Text#":74,
         "Title":"The Adventures of Tom Sawyer, Complete",
-        "Authors":"Twain, Mark, 1835-1910",
+        "Authors":[
+            "Twain, Mark"
+        ],
         "Genres":[
             "Humorous stories",
             "Bildungsromans",
@@ -1129,7 +1290,9 @@
     {
         "Text#":75,
         "Title":"E-mail 101",
-        "Authors":"Goodwin, John E.",
+        "Authors":[
+            "Goodwin, John E."
+        ],
         "Genres":[
             "Electronic mail systems",
             "Computers & Technology"
@@ -1138,7 +1301,10 @@
     {
         "Text#":76,
         "Title":"Adventures of Huckleberry Finn",
-        "Authors":"Twain, Mark, 1835-1910; Kemble, E. W. (Edward Windsor), 1861-1933 [Illustrator]",
+        "Authors":[
+            "Kemble, E. W. (Edward Windsor) [Illustrator]",
+            "Twain, Mark"
+        ],
         "Genres":[
             "Humorous stories",
             "Bildungsromans",
@@ -1155,7 +1321,9 @@
     {
         "Text#":77,
         "Title":"The House of the Seven Gables",
-        "Authors":"Hawthorne, Nathaniel, 1804-1864",
+        "Authors":[
+            "Hawthorne, Nathaniel"
+        ],
         "Genres":[
             "Historical fiction",
             "Domestic fiction",
@@ -1172,7 +1340,9 @@
     {
         "Text#":78,
         "Title":"Tarzan of the Apes",
-        "Authors":"Burroughs, Edgar Rice, 1875-1950",
+        "Authors":[
+            "Burroughs, Edgar Rice"
+        ],
         "Genres":[
             "Tarzan (Fictitious character)",
             "Fiction",
@@ -1189,7 +1359,9 @@
     {
         "Text#":79,
         "Title":"Terminal Compromise",
-        "Authors":"Schwartau, Winn, 1952-",
+        "Authors":[
+            "Schwartau, Winn"
+        ],
         "Genres":[
             "Computer security",
             "Fiction",
@@ -1206,7 +1378,9 @@
     {
         "Text#":80,
         "Title":"The Online World",
-        "Authors":"De Presno, Odd, 1944-",
+        "Authors":[
+            "De Presno, Odd"
+        ],
         "Genres":[
             "Internet",
             "Computers & Technology"
@@ -1215,7 +1389,9 @@
     {
         "Text#":81,
         "Title":"The Return of Tarzan",
-        "Authors":"Burroughs, Edgar Rice, 1875-1950",
+        "Authors":[
+            "Burroughs, Edgar Rice"
+        ],
         "Genres":[
             "Tarzan (Fictitious character)",
             "Fiction",
@@ -1229,7 +1405,9 @@
     {
         "Text#":82,
         "Title":"Ivanhoe: A Romance",
-        "Authors":"Scott, Walter, 1771-1832",
+        "Authors":[
+            "Scott, Walter"
+        ],
         "Genres":[
             "Historical fiction",
             "Knights and knighthood",
@@ -1246,7 +1424,9 @@
     {
         "Text#":83,
         "Title":"From the Earth to the Moon; and, Round the Moon",
-        "Authors":"Verne, Jules, 1828-1905",
+        "Authors":[
+            "Verne, Jules"
+        ],
         "Genres":[
             "Science fiction",
             "Space flight to the moon",
@@ -1263,7 +1443,9 @@
     {
         "Text#":84,
         "Title":"Frankenstein; Or, The Modern Prometheus",
-        "Authors":"Shelley, Mary Wollstonecraft, 1797-1851",
+        "Authors":[
+            "Shelley, Mary Wollstonecraft"
+        ],
         "Genres":[
             "Science fiction",
             "Horror tales",
@@ -1280,7 +1462,9 @@
     {
         "Text#":85,
         "Title":"The Beasts of Tarzan",
-        "Authors":"Burroughs, Edgar Rice, 1875-1950",
+        "Authors":[
+            "Burroughs, Edgar Rice"
+        ],
         "Genres":[
             "Tarzan (Fictitious character)",
             "Fiction",
@@ -1297,7 +1481,9 @@
     {
         "Text#":86,
         "Title":"A Connecticut Yankee in King Arthur's Court",
-        "Authors":"Twain, Mark, 1835-1910",
+        "Authors":[
+            "Twain, Mark"
+        ],
         "Genres":[
             "Fantasy fiction",
             "Satire",
@@ -1314,7 +1500,9 @@
     {
         "Text#":87,
         "Title":"The 1993 CIA World Factbook",
-        "Authors":"United States. Central Intelligence Agency",
+        "Authors":[
+            "United States. Central Intelligence Agency"
+        ],
         "Genres":[
             "World politics",
             "Handbooks, manuals, etc.",
@@ -1331,7 +1519,9 @@
     {
         "Text#":88,
         "Title":"Price\/Cost Indexes from 1875 to 1989; Estimated to 2010",
-        "Authors":"Hart, Michael, 1947-2011",
+        "Authors":[
+            "Hart, Michael"
+        ],
         "Genres":[
             "Cost and standard of living",
             "Economics",
@@ -1341,7 +1531,9 @@
     {
         "Text#":89,
         "Title":"North American Free Trade Agreement, 1992 Oct. 7 Tariff Phasing Descriptions",
-        "Authors":"Canada",
+        "Authors":[
+            "Canada"
+        ],
         "Genres":[
             "Canada. Treaties, etc. 1992 Oct. 7",
             "Tariff",
@@ -1358,7 +1550,9 @@
     {
         "Text#":90,
         "Title":"The Son of Tarzan",
-        "Authors":"Burroughs, Edgar Rice, 1875-1950",
+        "Authors":[
+            "Burroughs, Edgar Rice"
+        ],
         "Genres":[
             "Tarzan (Fictitious character)",
             "Fiction",
@@ -1374,7 +1568,9 @@
     {
         "Text#":91,
         "Title":"Tom Sawyer Abroad",
-        "Authors":"Twain, Mark, 1835-1910",
+        "Authors":[
+            "Twain, Mark"
+        ],
         "Genres":[
             "Adventure stories",
             "Sawyer, Tom (Fictitious character)",
@@ -1391,7 +1587,9 @@
     {
         "Text#":92,
         "Title":"Tarzan and the Jewels of Opar",
-        "Authors":"Burroughs, Edgar Rice, 1875-1950",
+        "Authors":[
+            "Burroughs, Edgar Rice"
+        ],
         "Genres":[
             "Tarzan (Fictitious character)",
             "Fiction",
@@ -1406,7 +1604,9 @@
     {
         "Text#":93,
         "Title":"Tom Sawyer, Detective",
-        "Authors":"Twain, Mark, 1835-1910",
+        "Authors":[
+            "Twain, Mark"
+        ],
         "Genres":[
             "Sawyer, Tom (Fictitious character)",
             "Fiction",
@@ -1419,7 +1619,9 @@
     {
         "Text#":94,
         "Title":"Alexander's Bridge",
-        "Authors":"Cather, Willa, 1873-1947",
+        "Authors":[
+            "Cather, Willa"
+        ],
         "Genres":[
             "Civil engineers",
             "Fiction",
@@ -1436,7 +1638,9 @@
     {
         "Text#":95,
         "Title":"The prisoner of Zenda",
-        "Authors":"Hope, Anthony, 1863-1933",
+        "Authors":[
+            "Hope, Anthony"
+        ],
         "Genres":[
             "Love stories",
             "Impostors and imposture",
@@ -1453,7 +1657,9 @@
     {
         "Text#":96,
         "Title":"The Monster Men",
-        "Authors":"Burroughs, Edgar Rice, 1875-1950",
+        "Authors":[
+            "Burroughs, Edgar Rice"
+        ],
         "Genres":[
             "Science fiction",
             "Fantasy fiction",
@@ -1466,7 +1672,9 @@
     {
         "Text#":97,
         "Title":"Flatland: A Romance of Many Dimensions",
-        "Authors":"Abbott, Edwin Abbott, 1838-1926",
+        "Authors":[
+            "Abbott, Edwin Abbott"
+        ],
         "Genres":[
             "Fourth dimension",
             "Mathematics",
@@ -1479,7 +1687,9 @@
     {
         "Text#":98,
         "Title":"A Tale of Two Cities",
-        "Authors":"Dickens, Charles, 1812-1870",
+        "Authors":[
+            "Dickens, Charles"
+        ],
         "Genres":[
             "Historical fiction",
             "France",
@@ -1496,7 +1706,9 @@
     {
         "Text#":99,
         "Title":"Collected Articles of Frederick Douglass",
-        "Authors":"Douglass, Frederick, 1818-1895",
+        "Authors":[
+            "Douglass, Frederick"
+        ],
         "Genres":[
             "Douglass, Frederick, 1818-1895",
             "Slavery",
@@ -1513,7 +1725,9 @@
     {
         "Text#":100,
         "Title":"The Complete Works of William Shakespeare",
-        "Authors":"Shakespeare, William, 1564-1616",
+        "Authors":[
+            "Shakespeare, William"
+        ],
         "Genres":[
             "English drama",
             "Early modern and Elizabethan, 1500-1600",

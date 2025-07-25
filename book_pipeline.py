@@ -18,6 +18,14 @@ df['Bookshelves'] = df['Bookshelves'].str.split(';')
 # Combine them into Genres
 df['Genres'] = df['Subjects'] + df['Bookshelves']
 
+# remove dates from authors
+def clean_authors(authors):    
+    if not isinstance(authors, str):
+        return authors
+    return re.sub(r",? ?\d{4}-\d{0,4}", "", authors)
+df['Authors'] = df['Authors'].apply(clean_authors)
+
+
 # Function to split '--' in each genre entry
 def split_double_dash(genres_list):
     """
@@ -43,7 +51,18 @@ def clean_author(author): # Ensure Author is a string
 
 df['Authors'] = df['Authors'].apply(clean_author)
 
+# Split authors by ';' and remove duplicates
+def split_authors(authors):
+    """
+    Takes a string of authors, splits by ';', removes duplicates,
+    and returns a list.
+    """
+    if not isinstance(authors, str):
+        return []
+    authors_list = [author.strip() for author in authors.split(';')]
+    return list(set(authors_list))  # Remove duplicates 
 
+df['Authors'] = df['Authors'].apply(split_authors) # Ensure Authors is a list
 
 # Remove "Browsing: " and extra spaces
 def clean_genres(genres_list): # Ensure Genres is a list
@@ -75,6 +94,9 @@ df['Pages'] = ''
 
 new_df100 = new_df.head(100) # Limit to first 100 rows
 
+
+
+'''
 #get ISBN and page count from Open Library based on title and author
 def lookup_openlibrary(title, author):
     url = f"https://openlibrary.org/search.json?title={title}&author={author}"
@@ -86,6 +108,7 @@ def lookup_openlibrary(title, author):
             doc = data['docs'][0]
             isbn = doc['isbn'][0] if 'isbn' in doc else None
             pages = doc.get('number_of_pages_median')
+            print(f"Found ISBN: {isbn}, Pages: {pages} for Title: {title}, Author: {author}")
             return isbn, pages
     return None, None
 
@@ -93,13 +116,21 @@ def lookup_openlibrary(title, author):
 df['ISBN'] = ''
 df['Pages'] = ''
 
-for idx, row in df.iterrows():
+for idx, row in new_df100.iterrows():
     title = row['Title']
     author = row['Authors']
     isbn, pages = lookup_openlibrary(title, author)
     new_df100.at[idx, 'ISBN'] = isbn if isbn else ''
     new_df100.at[idx, 'Pages'] = pages if pages else ''
     time.sleep(0.100)
+
+    
+'''
+
+#Save to CSV
+new_df100.to_csv('new_pg_catalog_100.csv', index=False)
+
+
 
 # Save to JSON
 new_df100.to_json('book_json.json', orient='records', force_ascii=False, indent=4)
