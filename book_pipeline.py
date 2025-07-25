@@ -2,6 +2,7 @@ import pandas as pd
 import re
 import requests
 import time
+import random
 
 
 
@@ -87,86 +88,24 @@ new_df= df[['Text#', 'Title', 'Authors', 'Genres']].copy()
 
 print(new_df.head())
 
+# Generate unique 13-digit ISBNs
+def generate_isbn13(n):
+    isbns = set()
+    while len(isbns) < n:
+        isbn = str(random.randint(10**12, 10**13 - 1))
+        isbns.add(isbn)
+    return list(isbns)
 
-# Add ISBN and Pages columns
-new_df['ISBN'] = '1234567890123'  # Placeholder ISBN
-new_df['Pages'] = '100'  # Placeholder Pages
+isbn_list = generate_isbn13(len(new_df))
+new_df['ISBN'] = isbn_list
+
+# Assign random page numbers between 100 and 500
+new_df['Pages'] = [random.randint(100, 500) for _ in range(len(new_df))]
 
 new_df100 = new_df.head(100) # Limit to first 100 rows
 
-
-
-'''
-#get ISBN and page count from Open Library based on title and author
-def lookup_openlibrary(title, author):
-    url = f"https://openlibrary.org/search.json?title={title}&author={author}"
-    print(url)
-    response = requests.get(url)
-    if response.status_code == 200:
-        data = response.json()
-        if data['numFound'] > 0:
-            doc = data['docs'][0]
-            isbn = doc['isbn'][0] if 'isbn' in doc else None
-            pages = doc.get('number_of_pages_median')
-            print(f"Found ISBN: {isbn}, Pages: {pages} for Title: {title}, Author: {author}")
-            return isbn, pages
-    return None, None
-
-# Add empty columns
-df['ISBN'] = ''
-df['Pages'] = ''
-
-for idx, row in new_df100.iterrows():
-    title = row['Title']
-    author = row['Authors']
-    isbn, pages = lookup_openlibrary(title, author)
-    new_df100.at[idx, 'ISBN'] = isbn if isbn else ''
-    new_df100.at[idx, 'Pages'] = pages if pages else ''
-    time.sleep(0.100)   
-'''
-
-"""
-def lookup_openlibrary(title, author):
-    url = f"https://openlibrary.org/search.json?title={title}&author={author}"
-    print(url)
-    response = requests.get(url)
-    if response.status_code == 200:
-        data = response.json()
-        if data['numFound'] > 0:
-            doc = data['docs'][0]
-            isbn = doc['isbn'][0] if 'isbn' in doc else None
-            pages = doc.get('number_of_pages_median')
-            print(f"Found ISBN: {isbn}, Pages: {pages} for Title: {title}, Author: {author}")
-            return isbn, pages
-    return None, None
-
-df100 = df[['Title', 'Authors']].head(100).copy()
-df100['ISBN'] = ''
-df100['Pages'] = ''
-
-for idx, row in df100.iterrows():
-    title = row['Title']
-    author = clean_author(row['Authors'])
-    isbn, pages = lookup_openlibrary(title, author)
-    df100.at[idx, 'ISBN'] = isbn if isbn else ''
-    df100.at[idx, 'Pages'] = pages if pages else ''
-    time.sleep(0.05)
-"""
-
-
-
-
-
-
-
-
-
-
-
-#Save to CSV
+# Save to CSV
 new_df100.to_csv('new_pg_catalog_100.csv', index=False)
-
-
 
 # Save to JSON
 new_df100.to_json('book_json.json', orient='records', force_ascii=False, indent=4)
